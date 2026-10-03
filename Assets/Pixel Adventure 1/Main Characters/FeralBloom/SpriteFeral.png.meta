@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: f54c2005a06efa04c84153bbb560dc7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6635110581018091405
+    second: SpriteFeral_0
+  - first:
+      213: -6686631466561446954
+    second: SpriteFeral_1
+  - first:
+      213: -3281239031829868103
+    second: SpriteFeral_2
+  - first:
+      213: -2153417382969865657
+    second: SpriteFeral_3
+  - first:
+      213: 4988406089069996963
+    second: SpriteFeral_4
+  - first:
+      213: 3972202303356548054
+    second: SpriteFeral_5
+  - first:
+      213: -2163739739293553030
+    second: SpriteFeral_6
+  - first:
+      213: -5660324141803645615
+    second: SpriteFeral_7
+  - first:
+      213: -5442288301865553756
+    second: SpriteFeral_8
+  - first:
+      213: -4860579606685728351
+    second: SpriteFeral_9
+  - first:
+      213: -5583829773941734650
+    second: SpriteFeral_10
+  - first:
+      213: -9136756997259115361
+    second: SpriteFeral_11
+  - first:
+      213: -4828669712760716557
+    second: SpriteFeral_12
+  - first:
+      213: -1601510574959072289
+    second: SpriteFeral_13
+  - first:
+      213: -5807414070612722865
+    second: SpriteFeral_14
+  - first:
+      213: -4522922091475268746
+    second: SpriteFeral_15
+  - first:
+      213: -8795110486262527045
+    second: SpriteFeral_16
+  - first:
+      213: 3366630477865143315
+    second: SpriteFeral_17
+  - first:
+      213: 1830672966177812106
+    second: SpriteFeral_18
+  - first:
+      213: 1021567979027040160
+    second: SpriteFeral_19
+  - first:
+      213: -8591124529207412197
+    second: SpriteFeral_20
+  - first:
+      213: -5009426399987364376
+    second: SpriteFeral_21
+  - first:
+      213: -2593153173831498028
+    second: SpriteFeral_22
+  - first:
+      213: 5500053888928736585
+    second: SpriteFeral_23
+  - first:
+      213: -4400829942336431385
+    second: SpriteFeral_24
+  - first:
+      213: -456474228612478709
+    second: SpriteFeral_25
+  - first:
+      213: 4508470331887547659
+    second: SpriteFeral_26
+  - first:
+      213: -3675398850111989889
+    second: SpriteFeral_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteFeral_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 763
+        width: 120
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fd40b4be5a41c50800000000000000
+      internalID: 6635110581018091405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 763
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd7a3cb105433a0800000000000000
+      internalID: -6686631466561446954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 763
+        width: 116
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b152ac3c72b672d0800000000000000
+      internalID: -3281239031829868103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 763
+        width: 112
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a0eeaac468d12e0800000000000000
+      internalID: -2153417382969865657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 763
+        width: 115
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aba96688e06a3540800000000000000
+      internalID: 4988406089069996963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 763
+        width: 116
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33e8303f8102730800000000000000
+      internalID: 3972202303356548054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_6
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 763
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ee20dcb2ad8f1e0800000000000000
+      internalID: -2163739739293553030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d936ce2d7271b0800000000000000
+      internalID: -5660324141803645615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 532
+        width: 139
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03a0abf9b1974b0800000000000000
+      internalID: -5442288301865553756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 532
+        width: 126
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14df4a990cb8cb0800000000000000
+      internalID: -4860579606685728351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 532
+        width: 134
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60304fda7604282b0800000000000000
+      internalID: -5583829773941734650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 532
+        width: 134
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944e4b6be7b33180800000000000000
+      internalID: -9136756997259115361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 532
+        width: 127
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c539ca7e1dfcb0800000000000000
+      internalID: -4828669712760716557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 532
+        width: 128
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb68830e9a46c9e0800000000000000
+      internalID: -1601510574959072289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 277
+        width: 133
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf589fbabe76fa0800000000000000
+      internalID: -5807414070612722865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 311
+        width: 124
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b89de325a5b31c0800000000000000
+      internalID: -4522922091475268746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 322
+        width: 114
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb420a7c9d71f580800000000000000
+      internalID: -8795110486262527045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 321
+        width: 118
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc72b159ca8be20800000000000000
+      internalID: 3366630477865143315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 290
+        width: 120
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e60f80d5bd76910800000000000000
+      internalID: 1830672966177812106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 276
+        width: 105
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a702d71aa65d2e00800000000000000
+      internalID: 1021567979027040160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_20
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 276
+        width: 129
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a727722c136c880800000000000000
+      internalID: -8591124529207412197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 58
+        width: 136
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0a44fa31fa7ab0800000000000000
+      internalID: -5009426399987364376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 58
+        width: 172
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c8917de4430cd0800000000000000
+      internalID: -2593153173831498028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 58
+        width: 171
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456a171fdd145c40800000000000000
+      internalID: 5500053888928736585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 58
+        width: 207
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea522aeb7c1de2c0800000000000000
+      internalID: -4400829942336431385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 58
+        width: 188
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ce6a8b174aa9f0800000000000000
+      internalID: -456474228612478709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 59
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b057b8441ed419e30800000000000000
+      internalID: 4508470331887547659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteFeral_27
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 58
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77123b083c5efcc0800000000000000
+      internalID: -3675398850111989889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteFeral_0: 6635110581018091405
+      SpriteFeral_1: -6686631466561446954
+      SpriteFeral_10: -5583829773941734650
+      SpriteFeral_11: -9136756997259115361
+      SpriteFeral_12: -4828669712760716557
+      SpriteFeral_13: -1601510574959072289
+      SpriteFeral_14: -5807414070612722865
+      SpriteFeral_15: -4522922091475268746
+      SpriteFeral_16: -8795110486262527045
+      SpriteFeral_17: 3366630477865143315
+      SpriteFeral_18: 1830672966177812106
+      SpriteFeral_19: 1021567979027040160
+      SpriteFeral_2: -3281239031829868103
+      SpriteFeral_20: -8591124529207412197
+      SpriteFeral_21: -5009426399987364376
+      SpriteFeral_22: -2593153173831498028
+      SpriteFeral_23: 5500053888928736585
+      SpriteFeral_24: -4400829942336431385
+      SpriteFeral_25: -456474228612478709
+      SpriteFeral_26: 4508470331887547659
+      SpriteFeral_27: -3675398850111989889
+      SpriteFeral_3: -2153417382969865657
+      SpriteFeral_4: 4988406089069996963
+      SpriteFeral_5: 3972202303356548054
+      SpriteFeral_6: -2163739739293553030
+      SpriteFeral_7: -5660324141803645615
+      SpriteFeral_8: -5442288301865553756
+      SpriteFeral_9: -4860579606685728351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

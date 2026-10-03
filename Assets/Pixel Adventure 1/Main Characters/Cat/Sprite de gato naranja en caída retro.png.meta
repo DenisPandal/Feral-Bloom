@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 8582ad318d9b57c458be505e0946e7e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5049574778449398910
+    second: "Sprite de gato naranja en ca\xEDda retro_0"
+  - first:
+      213: -6954935122839094823
+    second: "Sprite de gato naranja en ca\xEDda retro_1"
+  - first:
+      213: -7379693814685306136
+    second: "Sprite de gato naranja en ca\xEDda retro_2"
+  - first:
+      213: 2228577377927633444
+    second: "Sprite de gato naranja en ca\xEDda retro_3"
+  - first:
+      213: 811655940681639254
+    second: "Sprite de gato naranja en ca\xEDda retro_4"
+  - first:
+      213: -6022025294510366444
+    second: "Sprite de gato naranja en ca\xEDda retro_5"
+  - first:
+      213: -7017813424532214479
+    second: "Sprite de gato naranja en ca\xEDda retro_6"
+  - first:
+      213: 1697260373375455613
+    second: "Sprite de gato naranja en ca\xEDda retro_7"
+  - first:
+      213: -5075539925423103309
+    second: "Sprite de gato naranja en ca\xEDda retro_8"
+  - first:
+      213: -1080941709022105814
+    second: "Sprite de gato naranja en ca\xEDda retro_9"
+  - first:
+      213: 7344206348426808798
+    second: "Sprite de gato naranja en ca\xEDda retro_10"
+  - first:
+      213: -1374472138698975417
+    second: "Sprite de gato naranja en ca\xEDda retro_11"
+  - first:
+      213: 1602096186664449694
+    second: "Sprite de gato naranja en ca\xEDda retro_12"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_0"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 161
+        width: 313
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28370c72e7e4ce9b0800000000000000
+      internalID: -5049574778449398910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_1"
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 595
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9b947ca5b1b7f90800000000000000
+      internalID: -6954935122839094823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_2"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 470
+        width: 278
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f888239f069990800000000000000
+      internalID: -7379693814685306136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_3"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 17
+        width: 492
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a19d5515f7dee10800000000000000
+      internalID: 2228577377927633444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_4"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 297
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6552a2817c4934b00800000000000000
+      internalID: 811655940681639254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_5"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 17
+        width: 348
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411ea4496e77d6ca0800000000000000
+      internalID: -6022025294510366444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_6"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 178
+        width: 243
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d2ac25fd7bb9e90800000000000000
+      internalID: -7017813424532214479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_7"
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 47
+        width: 329
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71146e2151ed8710800000000000000
+      internalID: 1697260373375455613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_8"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 22
+        width: 301
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2e7d5445f0099b0800000000000000
+      internalID: -5075539925423103309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_9"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 301
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f65d22e39bff0f0800000000000000
+      internalID: -1080941709022105814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_10"
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd062b33ccdbe560800000000000000
+      internalID: 7344206348426808798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_11"
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 47
+        width: 84
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7471d234fd4ecece0800000000000000
+      internalID: -1374472138698975417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato naranja en ca\xEDda retro_12"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9674265ef9cb3610800000000000000
+      internalID: 1602096186664449694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sprite de gato naranja en ca\xEDda retro_0": -5049574778449398910
+      "Sprite de gato naranja en ca\xEDda retro_1": -6954935122839094823
+      "Sprite de gato naranja en ca\xEDda retro_10": 7344206348426808798
+      "Sprite de gato naranja en ca\xEDda retro_11": -1374472138698975417
+      "Sprite de gato naranja en ca\xEDda retro_12": 1602096186664449694
+      "Sprite de gato naranja en ca\xEDda retro_2": -7379693814685306136
+      "Sprite de gato naranja en ca\xEDda retro_3": 2228577377927633444
+      "Sprite de gato naranja en ca\xEDda retro_4": 811655940681639254
+      "Sprite de gato naranja en ca\xEDda retro_5": -6022025294510366444
+      "Sprite de gato naranja en ca\xEDda retro_6": -7017813424532214479
+      "Sprite de gato naranja en ca\xEDda retro_7": 1697260373375455613
+      "Sprite de gato naranja en ca\xEDda retro_8": -5075539925423103309
+      "Sprite de gato naranja en ca\xEDda retro_9": -1080941709022105814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
