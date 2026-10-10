@@ -50,34 +50,38 @@ public class Enemy : MonoBehaviour
         headPosition = head.transform.position;
         if (Physics2D.OverlapBox(headPosition, headSize, 0, playerWeaponMask))
         {
-            MakeUninteractable(2f);
-            SoundFXManager.Play("StepOn");
-            animator.SetBool("isHit", true);
-            OnPlayerHit?.Invoke(0, transform.position, false);
-
-            if (--currentHealth < 1)
-            {
-                GameManager.ScoreAdd(score);
-                OnGettingPoint?.Invoke(transform.position, score);
-                
-                crashFX.Play();
-                rb.bodyType = RigidbodyType2D.Dynamic;
-                rb.linearVelocity = Vector3.zero;
-                rb.AddForce(Vector3.down * 2f, ForceMode2D.Impulse);
-                rb.constraints = RigidbodyConstraints2D.None;
-                rb.AddTorque(90);
-                gameObject.layer = enemyDeadLayer;
-
-                EnemyDead();
-            }
+            TakeDamage(1);
         }
-
         //player got hit
         else if (collision.collider.CompareTag("Player"))
         {
             MakeUninteractable(1f);
             Vector3 position = transform.position;
             OnPlayerHit?.Invoke(damage, position, false);
+        }
+    }
+
+    public void TakeDamage(int dmg)
+    {
+        MakeUninteractable(2f);
+        SoundFXManager.Play("Hit"); // or StepOn
+        animator.SetBool("isHit", true);
+        
+        currentHealth -= dmg;
+        if (currentHealth <= 0)
+        {
+            GameManager.ScoreAdd(score);
+            OnGettingPoint?.Invoke(transform.position, score);
+            
+            if (crashFX != null) crashFX.Play();
+            rb.bodyType = RigidbodyType2D.Dynamic;
+            rb.linearVelocity = Vector3.zero;
+            rb.AddForce(Vector3.down * 2f, ForceMode2D.Impulse);
+            rb.constraints = RigidbodyConstraints2D.None;
+            rb.AddTorque(90);
+            gameObject.layer = enemyDeadLayer;
+
+            EnemyDead();
         }
     }
 

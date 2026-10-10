@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Style src="project://database/Assets/UI/MainMenu.uss" />
+    <ui:VisualElement name="Background" class="menu-background">
+        <ui:VisualElement name="Container" class="menu-container">
+            <ui:Button name="StartButton" class="menu-button start-btn" />
+            <ui:Button name="QuitButton" class="menu-button quit-btn" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -5,15 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/__Level01.unity
-    guid: 04bbc6d5f49358c4e81f6e0ccb6efd8b
-  - enabled: 0
-    path: Assets/_Scenes/__Level02.unity
-    guid: 57930d1bcf9c3874cb95c9c841b0d225
-  - enabled: 0
-    path: Assets/_Scenes/__Level03.unity
-    guid: 8772edf388601b84f9202b2a865f6330
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f8224914819eed347b925fc93db52185
+  - enabled: 1
+    path: Assets/_Scenes/FeralBloom.unity
+    guid: 0d2e939f293739b43bd1a403eaf4e9a3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

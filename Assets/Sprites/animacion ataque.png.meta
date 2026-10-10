@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: c9208c142c421b14fba3c3ff716cad91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5352832763569554252
+    second: animacion ataque_0
+  - first:
+      213: 962264048481097294
+    second: animacion ataque_1
+  - first:
+      213: 7584086628584573145
+    second: animacion ataque_2
+  - first:
+      213: -4409515381162389676
+    second: animacion ataque_3
+  - first:
+      213: -3386526433570254837
+    second: animacion ataque_4
+  - first:
+      213: 2633925802371991716
+    second: animacion ataque_5
+  - first:
+      213: -6888797993683074342
+    second: animacion ataque_6
+  - first:
+      213: -704246012326493139
+    second: animacion ataque_7
+  - first:
+      213: 6998764741133525459
+    second: animacion ataque_8
+  - first:
+      213: 8596845682157203812
+    second: animacion ataque_9
+  - first:
+      213: -2283533057217764045
+    second: animacion ataque_10
+  - first:
+      213: -7833025742010578779
+    second: animacion ataque_11
+  - first:
+      213: 5549462509175537389
+    second: animacion ataque_12
+  - first:
+      213: 8920342083119201456
+    second: animacion ataque_13
+  - first:
+      213: -5224653546786005833
+    second: animacion ataque_14
+  - first:
+      213: -1326505522345132478
+    second: animacion ataque_15
+  - first:
+      213: 4473955022930006603
+    second: animacion ataque_16
+  - first:
+      213: -5468756929677802854
+    second: animacion ataque_17
+  - first:
+      213: 6798952549050873520
+    second: animacion ataque_18
+  - first:
+      213: -6514834227783331226
+    second: animacion ataque_19
+  - first:
+      213: -2757206462264824908
+    second: animacion ataque_20
+  - first:
+      213: -7643020278041447339
+    second: animacion ataque_21
+  - first:
+      213: -20822400063001936
+    second: animacion ataque_22
+  - first:
+      213: -7961996382039376595
+    second: animacion ataque_23
+  - first:
+      213: -7804395586276118468
+    second: animacion ataque_24
+  - first:
+      213: 3035183942213575997
+    second: animacion ataque_25
+  - first:
+      213: -5105443069231610596
+    second: animacion ataque_26
+  - first:
+      213: 6462425862921860482
+    second: animacion ataque_27
+  - first:
+      213: 7508295303465519078
+    second: animacion ataque_28
+  - first:
+      213: 891328692899706091
+    second: animacion ataque_29
+  - first:
+      213: 284402973331879964
+    second: animacion ataque_30
+  - first:
+      213: -4215177932801200431
+    second: animacion ataque_31
+  - first:
+      213: -3465818534377738569
+    second: animacion ataque_32
+  - first:
+      213: 5256067553784714687
+    second: animacion ataque_33
+  - first:
+      213: 1941755783914464798
+    second: animacion ataque_34
+  - first:
+      213: 8625307644364439866
+    second: animacion ataque_35
+  - first:
+      213: 3920808486302542744
+    second: animacion ataque_36
+  - first:
+      213: 2862558314072356154
+    second: animacion ataque_37
+  - first:
+      213: -8254492272307714658
+    second: animacion ataque_38
+  - first:
+      213: 8482404041920926947
+    second: animacion ataque_39
+  - first:
+      213: -1270852562083354344
+    second: animacion ataque_40
+  - first:
+      213: -5387270803694121379
+    second: animacion ataque_41
+  - first:
+      213: 9134885747778858443
+    second: animacion ataque_42
+  - first:
+      213: 1462383031985528196
+    second: animacion ataque_43
+  - first:
+      213: 1770045978478577934
+    second: animacion ataque_44
+  - first:
+      213: -9134493840831898678
+    second: animacion ataque_45
+  - first:
+      213: -7536648732773057484
+    second: animacion ataque_46
+  - first:
+      213: -119787485262977888
+    second: animacion ataque_47
+  - first:
+      213: -2896205012757315284
+    second: animacion ataque_48
+  - first:
+      213: 6978112170743870631
+    second: animacion ataque_49
+  - first:
+      213: 7824348712264221790
+    second: animacion ataque_50
+  - first:
+      213: -498920034841012543
+    second: animacion ataque_51
+  - first:
+      213: -6194148396594516802
+    second: animacion ataque_52
+  - first:
+      213: -6200175590809838022
+    second: animacion ataque_53
+  - first:
+      213: 1787513018668330966
+    second: animacion ataque_54
+  - first:
+      213: -8847089250324262522
+    second: animacion ataque_55
+  - first:
+      213: 1122807961358536711
+    second: animacion ataque_56
+  - first:
+      213: 297370868480025880
+    second: animacion ataque_57
+  - first:
+      213: -2862917606368189511
+    second: animacion ataque_58
+  - first:
+      213: -6164948798071116419
+    second: animacion ataque_59
+  - first:
+      213: -2336944598267406124
+    second: animacion ataque_60
+  - first:
+      213: 4074699400089012629
+    second: animacion ataque_61
+  - first:
+      213: 257416983990230421
+    second: animacion ataque_62
+  - first:
+      213: 3031914894468763378
+    second: animacion ataque_63
+  - first:
+      213: 2165964169139602162
+    second: animacion ataque_64
+  - first:
+      213: -4534555030360631818
+    second: animacion ataque_65
+  - first:
+      213: -977563015331951818
+    second: animacion ataque_66
+  - first:
+      213: -3487748474384784761
+    second: animacion ataque_67
+  - first:
+      213: 2124603383120321681
+    second: animacion ataque_68
+  - first:
+      213: -5813270886738160753
+    second: animacion ataque_69
+  - first:
+      213: 8757806196459798127
+    second: animacion ataque_70
+  - first:
+      213: 2248396555093141350
+    second: animacion ataque_71
+  - first:
+      213: 419961956164542833
+    second: animacion ataque_72
+  - first:
+      213: -7271070187315337145
+    second: animacion ataque_73
+  - first:
+      213: -5920374660770824800
+    second: animacion ataque_74
+  - first:
+      213: -643718301538853879
+    second: animacion ataque_75
+  - first:
+      213: -7761179979725613821
+    second: animacion ataque_76
+  - first:
+      213: 8325513490376320569
+    second: animacion ataque_77
+  - first:
+      213: -6988257507518320889
+    second: animacion ataque_78
+  - first:
+      213: -5469731529720289530
+    second: animacion ataque_79
+  - first:
+      213: -109425898865259684
+    second: animacion ataque_80
+  - first:
+      213: 7328879148249993792
+    second: animacion ataque_81
+  - first:
+      213: 1145797615734185939
+    second: animacion ataque_82
+  - first:
+      213: 8393492230482143112
+    second: animacion ataque_83
+  - first:
+      213: 5589876418007758500
+    second: animacion ataque_84
+  - first:
+      213: -2250530233787139456
+    second: animacion ataque_85
+  - first:
+      213: 214736893399569452
+    second: animacion ataque_86
+  - first:
+      213: -8845841111898632116
+    second: animacion ataque_87
+  - first:
+      213: -2909928500588870178
+    second: animacion ataque_88
+  - first:
+      213: -2505848296746898844
+    second: animacion ataque_89
+  - first:
+      213: 3822390482939879358
+    second: animacion ataque_90
+  - first:
+      213: 7994027671560232004
+    second: animacion ataque_91
+  - first:
+      213: 2431049462299180588
+    second: animacion ataque_92
+  - first:
+      213: 5056345309755130584
+    second: animacion ataque_93
+  - first:
+      213: -3673083408922317560
+    second: animacion ataque_94
+  - first:
+      213: -8489352179771584407
+    second: animacion ataque_95
+  - first:
+      213: -1677980190502470998
+    second: animacion ataque_96
+  - first:
+      213: -3601812158649274932
+    second: animacion ataque_97
+  - first:
+      213: -6177630382881382552
+    second: animacion ataque_98
+  - first:
+      213: -839297597734186613
+    second: animacion ataque_99
+  - first:
+      213: 6515280195108367403
+    second: animacion ataque_100
+  - first:
+      213: -5111499866407193570
+    second: animacion ataque_101
+  - first:
+      213: 3059022093783548442
+    second: animacion ataque_102
+  - first:
+      213: 2055715042966755063
+    second: animacion ataque_103
+  - first:
+      213: 3458563271812464977
+    second: animacion ataque_104
+  - first:
+      213: 6074038812532542642
+    second: animacion ataque_105
+  - first:
+      213: -5618165003787874404
+    second: animacion ataque_106
+  - first:
+      213: 5446538056372784643
+    second: animacion ataque_107
+  - first:
+      213: 4210232211380029503
+    second: animacion ataque_108
+  - first:
+      213: 8511540615699091104
+    second: animacion ataque_109
+  - first:
+      213: -4055900729302544554
+    second: animacion ataque_110
+  - first:
+      213: -4740605513757154687
+    second: animacion ataque_111
+  - first:
+      213: 1093383088023890162
+    second: animacion ataque_112
+  - first:
+      213: 7298481826298235464
+    second: animacion ataque_113
+  - first:
+      213: 7396660159657985941
+    second: animacion ataque_114
+  - first:
+      213: 3807061886368904554
+    second: animacion ataque_115
+  - first:
+      213: 1663443377313688217
+    second: animacion ataque_116
+  - first:
+      213: 3532589409548348127
+    second: animacion ataque_117
+  - first:
+      213: 2608065633678718726
+    second: animacion ataque_118
+  - first:
+      213: -8226835733241486016
+    second: animacion ataque_119
+  - first:
+      213: -1374872761013840752
+    second: animacion ataque_120
+  - first:
+      213: -6946871523273839220
+    second: animacion ataque_121
+  - first:
+      213: -438062667235007290
+    second: animacion ataque_122
+  - first:
+      213: 1288574751113634318
+    second: animacion ataque_123
+  - first:
+      213: -2621111049673539517
+    second: animacion ataque_124
+  - first:
+      213: 3716528925631057555
+    second: animacion ataque_125
+  - first:
+      213: 7650697081875672587
+    second: animacion ataque_126
+  - first:
+      213: -1134984268019149119
+    second: animacion ataque_127
+  - first:
+      213: 8093137175536927521
+    second: animacion ataque_128
+  - first:
+      213: 3969969221731247234
+    second: animacion ataque_129
+  - first:
+      213: -8714484551297935053
+    second: animacion ataque_130
+  - first:
+      213: -527573222417076301
+    second: animacion ataque_131
+  - first:
+      213: 9172946185712881632
+    second: animacion ataque_132
+  - first:
+      213: 3048118101673076161
+    second: animacion ataque_133
+  - first:
+      213: 6287604159733686346
+    second: animacion ataque_134
+  - first:
+      213: 7595261184828589395
+    second: animacion ataque_135
+  - first:
+      213: -3089589579276947944
+    second: animacion ataque_136
+  - first:
+      213: 6168893214890998381
+    second: animacion ataque_137
+  - first:
+      213: -3081153887090094603
+    second: animacion ataque_138
+  - first:
+      213: -8012753519221249780
+    second: animacion ataque_139
+  - first:
+      213: -4120967001090553567
+    second: animacion ataque_140
+  - first:
+      213: -112586479441184321
+    second: animacion ataque_141
+  - first:
+      213: -2538583119812823074
+    second: animacion ataque_142
+  - first:
+      213: -1600956227587838360
+    second: animacion ataque_143
+  - first:
+      213: 7621802077600639329
+    second: animacion ataque_144
+  - first:
+      213: 627399581910786516
+    second: animacion ataque_145
+  - first:
+      213: -1018254239115217890
+    second: animacion ataque_146
+  - first:
+      213: -7893317220678642064
+    second: animacion ataque_147
+  - first:
+      213: -7850063077973459492
+    second: animacion ataque_148
+  - first:
+      213: 4014860094138989749
+    second: animacion ataque_149
+  - first:
+      213: 6355996940912001125
+    second: animacion ataque_150
+  - first:
+      213: -547467770627847815
+    second: animacion ataque_151
+  - first:
+      213: -4379154164745609042
+    second: animacion ataque_152
+  - first:
+      213: -4329477649058875209
+    second: animacion ataque_153
+  - first:
+      213: 7616358046863301942
+    second: animacion ataque_154
+  - first:
+      213: 4193591498846240031
+    second: animacion ataque_155
+  - first:
+      213: 4302012141728335447
+    second: animacion ataque_156
+  - first:
+      213: -1547752670322303203
+    second: animacion ataque_157
+  - first:
+      213: -365299320350503684
+    second: animacion ataque_158
+  - first:
+      213: -8979233393648337427
+    second: animacion ataque_159
+  - first:
+      213: -3168881278894353116
+    second: animacion ataque_160
+  - first:
+      213: 8691055768300887125
+    second: animacion ataque_161
+  - first:
+      213: -3157022304676899934
+    second: animacion ataque_162
+  - first:
+      213: -3717344182055473457
+    second: animacion ataque_163
+  - first:
+      213: -3146441621011694698
+    second: animacion ataque_164
+  - first:
+      213: 1525118072587921962
+    second: animacion ataque_165
+  - first:
+      213: 3648090332497209329
+    second: animacion ataque_166
+  - first:
+      213: -482991646818395275
+    second: animacion ataque_167
+  - first:
+      213: 1434670766746750525
+    second: animacion ataque_168
+  - first:
+      213: 9074747726736515603
+    second: animacion ataque_169
+  - first:
+      213: 3336152406407128427
+    second: animacion ataque_170
+  - first:
+      213: 6635129149897083299
+    second: animacion ataque_171
+  - first:
+      213: -1872567179330063585
+    second: animacion_ataque_0
+  - first:
+      213: 3774432586517720528
+    second: animacion_ataque_1
+  - first:
+      213: -7133047592814827478
+    second: animacion_ataque_2
+  - first:
+      213: -1031312923820347898
+    second: animacion_ataque_3
+  - first:
+      213: 3070291003097096537
+    second: animacion_ataque_4
+  - first:
+      213: 990476921068528204
+    second: animacion_ataque_5
+  - first:
+      213: 1886390758901528870
+    second: animacion_ataque_6
+  - first:
+      213: 2365832163366382270
+    second: animacion_ataque_7
+  - first:
+      213: -3695279897458474011
+    second: animacion_ataque_8
+  - first:
+      213: -4674173466880561766
+    second: animacion_ataque_9
+  - first:
+      213: -4441793856910552657
+    second: animacion_ataque_10
+  - first:
+      213: 1606132507116402023
+    second: animacion_ataque_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 165
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion_ataque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 335
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f9f9521e4306e0800000000000000
+      internalID: -1872567179330063585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 494
+        width: 294
+        height: 498
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2c0c807a716430800000000000000
+      internalID: 3774432586517720528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 488
+        width: 384
+        height: 511
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2b632c5a00b1f0800000000000000
+      internalID: -1031312923820347898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_4
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 494
+        width: 478
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512ea4766ddb9a20800000000000000
+      internalID: 3070291003097096537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 299
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 218}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b7e3966ecd2a10800000000000000
+      internalID: 1886390758901528870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 108
+        width: 381
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 97, z: 0, w: 61}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa5af51df15d020800000000000000
+      internalID: 2365832163366382270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 115
+        width: 409
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 107, z: 0, w: 78}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d27082ffff12fb0800000000000000
+      internalID: -4674173466880561766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion_ataque_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 107
+        width: 297
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 93, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76571ec61012a4610800000000000000
+      internalID: 1606132507116402023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9a3fdcee40d70b4991f59869c2fc853
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animacion ataque_0: -5352832763569554252
+      animacion ataque_1: 962264048481097294
+      animacion ataque_10: -2283533057217764045
+      animacion ataque_100: 6515280195108367403
+      animacion ataque_101: -5111499866407193570
+      animacion ataque_102: 3059022093783548442
+      animacion ataque_103: 2055715042966755063
+      animacion ataque_104: 3458563271812464977
+      animacion ataque_105: 6074038812532542642
+      animacion ataque_106: -5618165003787874404
+      animacion ataque_107: 5446538056372784643
+      animacion ataque_108: 4210232211380029503
+      animacion ataque_109: 8511540615699091104
+      animacion ataque_11: -7833025742010578779
+      animacion ataque_110: -4055900729302544554
+      animacion ataque_111: -4740605513757154687
+      animacion ataque_112: 1093383088023890162
+      animacion ataque_113: 7298481826298235464
+      animacion ataque_114: 7396660159657985941
+      animacion ataque_115: 3807061886368904554
+      animacion ataque_116: 1663443377313688217
+      animacion ataque_117: 3532589409548348127
+      animacion ataque_118: 2608065633678718726
+      animacion ataque_119: -8226835733241486016
+      animacion ataque_12: 5549462509175537389
+      animacion ataque_120: -1374872761013840752
+      animacion ataque_121: -6946871523273839220
+      animacion ataque_122: -438062667235007290
+      animacion ataque_123: 1288574751113634318
+      animacion ataque_124: -2621111049673539517
+      animacion ataque_125: 3716528925631057555
+      animacion ataque_126: 7650697081875672587
+      animacion ataque_127: -1134984268019149119
+      animacion ataque_128: 8093137175536927521
+      animacion ataque_129: 3969969221731247234
+      animacion ataque_13: 8920342083119201456
+      animacion ataque_130: -8714484551297935053
+      animacion ataque_131: -527573222417076301
+      animacion ataque_132: 9172946185712881632
+      animacion ataque_133: 3048118101673076161
+      animacion ataque_134: 6287604159733686346
+      animacion ataque_135: 7595261184828589395
+      animacion ataque_136: -3089589579276947944
+      animacion ataque_137: 6168893214890998381
+      animacion ataque_138: -3081153887090094603
+      animacion ataque_139: -8012753519221249780
+      animacion ataque_14: -5224653546786005833
+      animacion ataque_140: -4120967001090553567
+      animacion ataque_141: -112586479441184321
+      animacion ataque_142: -2538583119812823074
+      animacion ataque_143: -1600956227587838360
+      animacion ataque_144: 7621802077600639329
+      animacion ataque_145: 627399581910786516
+      animacion ataque_146: -1018254239115217890
+      animacion ataque_147: -7893317220678642064
+      animacion ataque_148: -7850063077973459492
+      animacion ataque_149: 4014860094138989749
+      animacion ataque_15: -1326505522345132478
+      animacion ataque_150: 6355996940912001125
+      animacion ataque_151: -547467770627847815
+      animacion ataque_152: -4379154164745609042
+      animacion ataque_153: -4329477649058875209
+      animacion ataque_154: 7616358046863301942
+      animacion ataque_155: 4193591498846240031
+      animacion ataque_156: 4302012141728335447
+      animacion ataque_157: -1547752670322303203
+      animacion ataque_158: -365299320350503684
+      animacion ataque_159: -8979233393648337427
+      animacion ataque_16: 4473955022930006603
+      animacion ataque_160: -3168881278894353116
+      animacion ataque_161: 8691055768300887125
+      animacion ataque_162: -3157022304676899934
+      animacion ataque_163: -3717344182055473457
+      animacion ataque_164: -3146441621011694698
+      animacion ataque_165: 1525118072587921962
+      animacion ataque_166: 3648090332497209329
+      animacion ataque_167: -482991646818395275
+      animacion ataque_168: 1434670766746750525
+      animacion ataque_169: 9074747726736515603
+      animacion ataque_17: -5468756929677802854
+      animacion ataque_170: 3336152406407128427
+      animacion ataque_171: 6635129149897083299
+      animacion ataque_18: 6798952549050873520
+      animacion ataque_19: -6514834227783331226
+      animacion ataque_2: 7584086628584573145
+      animacion ataque_20: -2757206462264824908
+      animacion ataque_21: -7643020278041447339
+      animacion ataque_22: -20822400063001936
+      animacion ataque_23: -7961996382039376595
+      animacion ataque_24: -7804395586276118468
+      animacion ataque_25: 3035183942213575997
+      animacion ataque_26: -5105443069231610596
+      animacion ataque_27: 6462425862921860482
+      animacion ataque_28: 7508295303465519078
+      animacion ataque_29: 891328692899706091
+      animacion ataque_3: -4409515381162389676
+      animacion ataque_30: 284402973331879964
+      animacion ataque_31: -4215177932801200431
+      animacion ataque_32: -3465818534377738569
+      animacion ataque_33: 5256067553784714687
+      animacion ataque_34: 1941755783914464798
+      animacion ataque_35: 8625307644364439866
+      animacion ataque_36: 3920808486302542744
+      animacion ataque_37: 2862558314072356154
+      animacion ataque_38: -8254492272307714658
+      animacion ataque_39: 8482404041920926947
+      animacion ataque_4: -3386526433570254837
+      animacion ataque_40: -1270852562083354344
+      animacion ataque_41: -5387270803694121379
+      animacion ataque_42: 9134885747778858443
+      animacion ataque_43: 1462383031985528196
+      animacion ataque_44: 1770045978478577934
+      animacion ataque_45: -9134493840831898678
+      animacion ataque_46: -7536648732773057484
+      animacion ataque_47: -119787485262977888
+      animacion ataque_48: -2896205012757315284
+      animacion ataque_49: 6978112170743870631
+      animacion ataque_5: 2633925802371991716
+      animacion ataque_50: 7824348712264221790
+      animacion ataque_51: -498920034841012543
+      animacion ataque_52: -6194148396594516802
+      animacion ataque_53: -6200175590809838022
+      animacion ataque_54: 1787513018668330966
+      animacion ataque_55: -8847089250324262522
+      animacion ataque_56: 1122807961358536711
+      animacion ataque_57: 297370868480025880
+      animacion ataque_58: -2862917606368189511
+      animacion ataque_59: -6164948798071116419
+      animacion ataque_6: -6888797993683074342
+      animacion ataque_60: -2336944598267406124
+      animacion ataque_61: 4074699400089012629
+      animacion ataque_62: 257416983990230421
+      animacion ataque_63: 3031914894468763378
+      animacion ataque_64: 2165964169139602162
+      animacion ataque_65: -4534555030360631818
+      animacion ataque_66: -977563015331951818
+      animacion ataque_67: -3487748474384784761
+      animacion ataque_68: 2124603383120321681
+      animacion ataque_69: -5813270886738160753
+      animacion ataque_7: -704246012326493139
+      animacion ataque_70: 8757806196459798127
+      animacion ataque_71: 2248396555093141350
+      animacion ataque_72: 419961956164542833
+      animacion ataque_73: -7271070187315337145
+      animacion ataque_74: -5920374660770824800
+      animacion ataque_75: -643718301538853879
+      animacion ataque_76: -7761179979725613821
+      animacion ataque_77: 8325513490376320569
+      animacion ataque_78: -6988257507518320889
+      animacion ataque_79: -5469731529720289530
+      animacion ataque_8: 6998764741133525459
+      animacion ataque_80: -109425898865259684
+      animacion ataque_81: 7328879148249993792
+      animacion ataque_82: 1145797615734185939
+      animacion ataque_83: 8393492230482143112
+      animacion ataque_84: 5589876418007758500
+      animacion ataque_85: -2250530233787139456
+      animacion ataque_86: 214736893399569452
+      animacion ataque_87: -8845841111898632116
+      animacion ataque_88: -2909928500588870178
+      animacion ataque_89: -2505848296746898844
+      animacion ataque_9: 8596845682157203812
+      animacion ataque_90: 3822390482939879358
+      animacion ataque_91: 7994027671560232004
+      animacion ataque_92: 2431049462299180588
+      animacion ataque_93: 5056345309755130584
+      animacion ataque_94: -3673083408922317560
+      animacion ataque_95: -8489352179771584407
+      animacion ataque_96: -1677980190502470998
+      animacion ataque_97: -3601812158649274932
+      animacion ataque_98: -6177630382881382552
+      animacion ataque_99: -839297597734186613
+      animacion_ataque_0: -1872567179330063585
+      animacion_ataque_1: 3774432586517720528
+      animacion_ataque_10: -4441793856910552657
+      animacion_ataque_11: 1606132507116402023
+      animacion_ataque_2: -7133047592814827478
+      animacion_ataque_3: -1031312923820347898
+      animacion_ataque_4: 3070291003097096537
+      animacion_ataque_5: 990476921068528204
+      animacion_ataque_6: 1886390758901528870
+      animacion_ataque_7: 2365832163366382270
+      animacion_ataque_8: -3695279897458474011
+      animacion_ataque_9: -4674173466880561766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

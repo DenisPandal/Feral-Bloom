@@ -1,0 +1,46 @@
+.menu-background {
+    flex-grow: 1;
+    align-items: flex-end;
+    justify-content: center;
+    padding-right: 12%;
+    background-image: url('project://database/Assets/Sprites/Fondo Menu.jpg');
+    -unity-background-scale-mode: scale-and-crop;
+}
+
+.menu-container {
+    background-color: transparent;
+    border-width: 0px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+
+.menu-button {
+    width: 200px;
+    height: 150px;
+    margin-bottom: -15px;
+    background-color: transparent;
+    border-width: 0px;
+    transition-property: scale;
+    transition-duration: 0.2s;
+    cursor: link;
+}
+
+.menu-button:hover {
+    scale: 1.15;
+}
+
+.menu-button:active {
+    scale: 0.9;
+}
+
+.start-btn {
+    background-image: url('project://database/Assets/Sprites/play.png');
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.quit-btn {
+    background-image: url('project://database/Assets/Sprites/exit.png');
+    -unity-background-scale-mode: scale-to-fit;
+}

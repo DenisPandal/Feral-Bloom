@@ -32,6 +32,18 @@ public class PlayerHealth : MonoBehaviour
         DeathZone.OnPlayerHit -= TakeDamage;
     }
 
+    [Header("--- Void Death ---")]
+    [SerializeField] float voidYThreshold = -25f;
+
+    void Update()
+    {
+        if (GameManager.isGameOn && GameManager.health > 0 && transform.position.y < voidYThreshold)
+        {
+            // Kill player instantly for falling into the void
+            TakeDamage(999, transform.position, true);
+        }
+    }
+
     void TakeDamage(int damage, Vector3 hitPosition, bool instantDeath)
     {
         float force = 5f;

@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     public static int healthMax = 3;
     public static int health = 3;
     public static int score = 0;
+    public static bool hasDash = false;
     public static bool levelProgressTrigger = false;
     bool levelLoadedTrigger = true;
     public Image screenShadow;

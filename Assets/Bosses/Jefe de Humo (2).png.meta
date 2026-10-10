@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: ae31b7078a751704dbc72150d255037f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7448843523018095425
+    second: Jefe de Humo (2)_0
+  - first:
+      213: 3780447509245137625
+    second: Jefe de Humo (2)_1
+  - first:
+      213: 2438996128125680835
+    second: Jefe de Humo (2)_2
+  - first:
+      213: 5498036603653994508
+    second: Jefe de Humo (2)_3
+  - first:
+      213: 244588766009047439
+    second: Jefe de Humo (2)_4
+  - first:
+      213: -1551474629805427605
+    second: Jefe de Humo (2)_5
+  - first:
+      213: -2253848749060851112
+    second: Jefe de Humo (2)_6
+  - first:
+      213: 3140878227145950014
+    second: Jefe de Humo (2)_7
+  - first:
+      213: -3136589055933459273
+    second: Jefe de Humo (2)_8
+  - first:
+      213: -7050271593694460320
+    second: Jefe de Humo (2)_9
+  - first:
+      213: 5243527024461163859
+    second: Jefe de Humo (2)_10
+  - first:
+      213: -6207035886983980982
+    second: Jefe de Humo (2)_11
+  - first:
+      213: 3659147405417578560
+    second: Jefe de Humo (2)_12
+  - first:
+      213: -4372036069353041775
+    second: Jefe de Humo (2)_13
+  - first:
+      213: -130885100561897806
+    second: Jefe de Humo (2)_14
+  - first:
+      213: 6918983936915678595
+    second: Jefe de Humo (2)_15
+  - first:
+      213: 4346499333391225091
+    second: Jefe de Humo (2)_16
+  - first:
+      213: -2739196859186295060
+    second: Jefe de Humo (2)_17
+  - first:
+      213: -1409401661043566947
+    second: Jefe de Humo (2)_18
+  - first:
+      213: -2077557839257597591
+    second: Jefe de Humo (2)_19
+  - first:
+      213: -4804791653081510268
+    second: Jefe de Humo (2)_20
+  - first:
+      213: -2786990301650246650
+    second: Jefe de Humo (2)_21
+  - first:
+      213: 4656897788379168837
+    second: Jefe de Humo (2)_22
+  - first:
+      213: -3425266800933137224
+    second: Jefe de Humo (2)_23
+  - first:
+      213: 4308867288008837364
+    second: Jefe de Humo (2)_24
+  - first:
+      213: -1934261827160961146
+    second: Jefe de Humo (2)_25
+  - first:
+      213: -2174641559224952497
+    second: Jefe de Humo (2)_26
+  - first:
+      213: -8573837780399458119
+    second: Jefe de Humo (2)_27
+  - first:
+      213: 4087751276052343713
+    second: Jefe de Humo (2)_28
+  - first:
+      213: -6066880882505888154
+    second: Jefe de Humo (2)_29
+  - first:
+      213: 8909610625211245290
+    second: Jefe de Humo (2)_30
+  - first:
+      213: 2614589618825499891
+    second: Jefe de Humo (2)_31
+  - first:
+      213: 9155498280513926780
+    second: Jefe de Humo (2)_32
+  - first:
+      213: -172586837733268202
+    second: Jefe de Humo (2)_33
+  - first:
+      213: 2453606679165716761
+    second: Jefe de Humo (2)_34
+  - first:
+      213: -7954525675727340840
+    second: Jefe de Humo (2)_35
+  - first:
+      213: 7097701024545042135
+    second: Jefe de Humo (2)_36
+  - first:
+      213: 812910979018214990
+    second: Jefe de Humo (2)_37
+  - first:
+      213: 4781370179026281410
+    second: Jefe de Humo (2)_38
+  - first:
+      213: 8605266602930029892
+    second: Jefe de Humo (2)_39
+  - first:
+      213: -1154258139035688996
+    second: Jefe de Humo (2)_40
+  - first:
+      213: 8153770183650071658
+    second: Jefe de Humo (2)_41
+  - first:
+      213: -9844318969676276
+    second: Jefe de Humo (2)_42
+  - first:
+      213: -5904916895370147244
+    second: Jefe de Humo (2)_43
+  - first:
+      213: 9059274873354233394
+    second: Jefe de Humo (2)_44
+  - first:
+      213: -7908223352247957337
+    second: Jefe de Humo (2)_45
+  - first:
+      213: 7356124889821910414
+    second: Jefe de Humo (2)_46
+  - first:
+      213: 3392441245444489142
+    second: Jefe de Humo (2)_47
+  - first:
+      213: 2198131069453813992
+    second: Jefe de Humo (2)_48
+  - first:
+      213: 613273404389200255
+    second: Jefe de Humo (2)_49
+  - first:
+      213: -444734521220271130
+    second: Jefe de Humo (2)_50
+  - first:
+      213: -2677258047978410247
+    second: Jefe de Humo (2)_51
+  - first:
+      213: 6814368164661870303
+    second: Jefe de Humo (2)_52
+  - first:
+      213: -4150252032314529497
+    second: Jefe de Humo (2)_53
+  - first:
+      213: 1494308815674657818
+    second: Jefe de Humo (2)_54
+  - first:
+      213: 3922166871267193159
+    second: Jefe de Humo (2)_55
+  - first:
+      213: -3380695254620068408
+    second: Jefe de Humo (2)_56
+  - first:
+      213: 3712840912967056194
+    second: Jefe de Humo (2)_57
+  - first:
+      213: -4610987182775920019
+    second: Jefe de Humo (2)_58
+  - first:
+      213: -6063935742544415389
+    second: Jefe de Humo (2)_59
+  - first:
+      213: 4632669745529247321
+    second: Jefe de Humo (2)_60
+  - first:
+      213: -3576895328898940714
+    second: Jefe de Humo (2)_61
+  - first:
+      213: 4372141748441536346
+    second: Jefe de Humo (2)_62
+  - first:
+      213: 2978195368883805303
+    second: Jefe de Humo (2)_63
+  - first:
+      213: -5357762905876836608
+    second: Jefe de Humo (2)_64
+  - first:
+      213: 9085417551075115115
+    second: Jefe de Humo (2)_65
+  - first:
+      213: -4559046944655485614
+    second: Jefe de Humo (2)_66
+  - first:
+      213: 4842598540947070575
+    second: Jefe de Humo (2)_67
+  - first:
+      213: 7731733648581546176
+    second: Jefe de Humo (2)_68
+  - first:
+      213: 1832021661180556985
+    second: Jefe de Humo (2)_69
+  - first:
+      213: -1603811378507888719
+    second: Jefe de Humo (2)_70
+  - first:
+      213: 5282254398637016969
+    second: Jefe de Humo (2)_71
+  - first:
+      213: 2457967890862154057
+    second: Jefe de Humo (2)_72
+  - first:
+      213: -8956932519150029884
+    second: Jefe de Humo (2)_73
+  - first:
+      213: 6496536652331142672
+    second: Jefe de Humo (2)_74
+  - first:
+      213: 2696438385943313324
+    second: Jefe de Humo (2)_75
+  - first:
+      213: -6900362314999578460
+    second: Jefe de Humo (2)_76
+  - first:
+      213: -5771973290719342232
+    second: Jefe de Humo (2)_77
+  - first:
+      213: 7291188013884627689
+    second: Jefe de Humo (2)_78
+  - first:
+      213: 2906566703765156919
+    second: Jefe de Humo (2)_79
+  - first:
+      213: 608438830778482901
+    second: Jefe de Humo (2)_80
+  - first:
+      213: 8507136355753750877
+    second: Jefe de Humo (2)_81
+  - first:
+      213: 1006145470705028683
+    second: Jefe de Humo (2)_82
+  - first:
+      213: -7944110281330434206
+    second: Jefe de Humo (2)_83
+  - first:
+      213: -9149059826326807823
+    second: Jefe de Humo (2)_84
+  - first:
+      213: -9181564834460301613
+    second: Jefe de Humo (2)_85
+  - first:
+      213: -5459774750086099972
+    second: Jefe de Humo (2)_86
+  - first:
+      213: -2023889229958916143
+    second: Jefe de Humo (2)_87
+  - first:
+      213: 3262133202880548936
+    second: Jefe de Humo (2)_88
+  - first:
+      213: -7764116462731856015
+    second: Jefe de Humo (2)_89
+  - first:
+      213: -7836559104346229636
+    second: Jefe de Humo (2)_90
+  - first:
+      213: 7925758065319109107
+    second: Jefe de Humo (2)_91
+  - first:
+      213: -7301762310125170219
+    second: Jefe de Humo (2)_92
+  - first:
+      213: -4936886083344745385
+    second: Jefe de Humo (2)_93
+  - first:
+      213: -5458459349548038076
+    second: Jefe de Humo (2)_94
+  - first:
+      213: -3931613074464809311
+    second: Jefe de Humo (2)_95
+  - first:
+      213: 4087767718037283452
+    second: Jefe de Humo (2)_96
+  - first:
+      213: -6162395747354051679
+    second: Jefe de Humo (2)_97
+  - first:
+      213: 4096548329177976587
+    second: Jefe de Humo (2)_98
+  - first:
+      213: 6483714526119432696
+    second: Jefe de Humo (2)_99
+  - first:
+      213: 4907589121539668675
+    second: Jefe de Humo (2)_100
+  - first:
+      213: 6235945446077504760
+    second: Jefe de Humo (2)_101
+  - first:
+      213: -6455088626742009745
+    second: Jefe de Humo (2)_102
+  - first:
+      213: -8120985504641357688
+    second: Jefe de Humo (2)_103
+  - first:
+      213: 9062216238253013965
+    second: Jefe de Humo (2)_104
+  - first:
+      213: -2323520387649855290
+    second: Jefe de Humo (2)_105
+  - first:
+      213: -3139695239527903992
+    second: Jefe de Humo (2)_106
+  - first:
+      213: 7654177148287271193
+    second: Jefe de Humo (2)_107
+  - first:
+      213: 5074124450040755953
+    second: Jefe de Humo (2)_108
+  - first:
+      213: 1984508333145620608
+    second: Jefe de Humo (2)_109
+  - first:
+      213: 4299416485835511706
+    second: Jefe de Humo (2)_110
+  - first:
+      213: 6326736596463220833
+    second: Jefe de Humo (2)_111
+  - first:
+      213: 4664465352838483282
+    second: Jefe de Humo (2)_112
+  - first:
+      213: 2525731551343407184
+    second: Jefe de Humo (2)_113
+  - first:
+      213: 7501128036072453399
+    second: Jefe de Humo (2)_114
+  - first:
+      213: -2145047690511198287
+    second: Jefe de Humo (2)_115
+  - first:
+      213: 978289021940668312
+    second: Jefe de Humo (2)_116
+  - first:
+      213: 43203330237751425
+    second: Jefe de Humo (2)_117
+  - first:
+      213: -4639583369309202346
+    second: Jefe de Humo (2)_118
+  - first:
+      213: 1708671333165959390
+    second: Jefe de Humo (2)_119
+  - first:
+      213: -8809909940723255539
+    second: Jefe de Humo (2)_120
+  - first:
+      213: -110648723056812630
+    second: Jefe de Humo (2)_121
+  - first:
+      213: -1213108932340885845
+    second: Jefe de Humo (2)_122
+  - first:
+      213: -4496073332897516364
+    second: Jefe de Humo (2)_123
+  - first:
+      213: -2492527140786232953
+    second: Jefe de Humo (2)_124
+  - first:
+      213: 2131395223426522883
+    second: Jefe de Humo (2)_125
+  - first:
+      213: 4664118855062434736
+    second: Jefe de Humo (2)_126
+  - first:
+      213: -6970536620930898770
+    second: Jefe de Humo (2)_127
+  - first:
+      213: -436483631399739389
+    second: Jefe de Humo (2)_128
+  - first:
+      213: 4627436943828759945
+    second: Jefe de Humo (2)_129
+  - first:
+      213: 4000126269691805305
+    second: Jefe de Humo (2)_130
+  - first:
+      213: -2145399033028133565
+    second: Jefe de Humo (2)_131
+  - first:
+      213: 4925645528453288247
+    second: Jefe de Humo (2)_132
+  - first:
+      213: 7151001092918723682
+    second: Jefe de Humo (2)_133
+  - first:
+      213: 456862624008378716
+    second: Jefe de Humo (2)_134
+  - first:
+      213: -5713282650066229668
+    second: Jefe de Humo (2)_135
+  - first:
+      213: -5987183735798283076
+    second: Jefe de Humo (2)_136
+  - first:
+      213: -2645959792701162438
+    second: Jefe de Humo (2)_137
+  - first:
+      213: -2319407668087896219
+    second: Jefe de Humo (2)_138
+  - first:
+      213: -5466419947037845380
+    second: Jefe de Humo (2)_139
+  - first:
+      213: 8643700811770460583
+    second: Jefe de Humo (2)_140
+  - first:
+      213: -1353669950618040167
+    second: Jefe de Humo (2)_141
+  - first:
+      213: -926877235182693368
+    second: Jefe de Humo (2)_142
+  - first:
+      213: 1967970157422917308
+    second: Jefe de Humo (2)_143
+  - first:
+      213: 7467553389715366195
+    second: Jefe de Humo (2)_144
+  - first:
+      213: -2711504027769694225
+    second: Jefe de Humo (2)_145
+  - first:
+      213: 3080486660887021222
+    second: Jefe de Humo (2)_146
+  - first:
+      213: -3986674144488433114
+    second: Jefe de Humo (2)_147
+  - first:
+      213: 5692280839824749644
+    second: Jefe de Humo (2)_148
+  - first:
+      213: 3913997779543949211
+    second: Jefe de Humo (2)_149
+  - first:
+      213: -3883632793545382074
+    second: Jefe de Humo (2)_150
+  - first:
+      213: -2406855000215348681
+    second: Jefe de Humo (2)_151
+  - first:
+      213: 2337815112817866663
+    second: Jefe de Humo (2)_152
+  - first:
+      213: 4644534563963976832
+    second: Jefe de Humo (2)_153
+  - first:
+      213: -6971806614909301792
+    second: Jefe de Humo (2)_154
+  - first:
+      213: 8610271289456210950
+    second: Jefe de Humo (2)_155
+  - first:
+      213: -2737611997685965673
+    second: Jefe de Humo (2)_156
+  - first:
+      213: -176740561557637675
+    second: Jefe de Humo (2)_157
+  - first:
+      213: 7859804713781204947
+    second: Jefe de Humo (2)_158
+  - first:
+      213: 4809062852079492289
+    second: Jefe de Humo (2)_159
+  - first:
+      213: 2442624071164735673
+    second: Jefe de Humo (2)_160
+  - first:
+      213: -1076661973637041790
+    second: Jefe de Humo (2)_161
+  - first:
+      213: -1964730339883326033
+    second: Jefe de Humo (2)_162
+  - first:
+      213: -2876850736508261452
+    second: Jefe de Humo (2)_163
+  - first:
+      213: -3546450481261387812
+    second: Jefe de Humo (2)_164
+  - first:
+      213: -1827829800349576693
+    second: Jefe de Humo (2)_165
+  - first:
+      213: -4217687091587795883
+    second: Jefe de Humo (2)_166
+  - first:
+      213: 5292822429087631850
+    second: Jefe de Humo (2)_167
+  - first:
+      213: -6936031224730522700
+    second: Jefe de Humo (2)_168
+  - first:
+      213: -732987017261753596
+    second: Jefe de Humo (2)_169
+  - first:
+      213: 2220483875984847311
+    second: Jefe de Humo (2)_170
+  - first:
+      213: -2873286132681010111
+    second: Jefe de Humo (2)_171
+  - first:
+      213: 2387051715225675417
+    second: Jefe de Humo (2)_172
+  - first:
+      213: 490563865723370343
+    second: Jefe de Humo (2)_173
+  - first:
+      213: 328433163428665853
+    second: Jefe de Humo (2)_174
+  - first:
+      213: 1462989108369345734
+    second: Jefe de Humo (2)_175
+  - first:
+      213: 2492151855937407775
+    second: Jefe de Humo (2)_176
+  - first:
+      213: -2640091044415378667
+    second: Jefe de Humo (2)_177
+  - first:
+      213: -3772468747916287347
+    second: Jefe de Humo (2)_178
+  - first:
+      213: 6455987679270446812
+    second: Jefe de Humo (2)_179
+  - first:
+      213: -3389477127468624025
+    second: Jefe de Humo (2)_180
+  - first:
+      213: -6016788985796824310
+    second: Jefe de Humo (2)_181
+  - first:
+      213: -1959992212990475812
+    second: Jefe de Humo (2)_182
+  - first:
+      213: 9050137759306820853
+    second: Jefe de Humo (2)_183
+  - first:
+      213: 3106737814131384395
+    second: Jefe de Humo (2)_184
+  - first:
+      213: 310929374807213812
+    second: Jefe de Humo (2)_185
+  - first:
+      213: 2799249578334699708
+    second: Jefe de Humo (2)_186
+  - first:
+      213: 1474360110735092228
+    second: Jefe de Humo (2)_187
+  - first:
+      213: 8987463835435604939
+    second: Jefe de Humo (2)_188
+  - first:
+      213: 690852950331971448
+    second: Jefe de Humo (2)_189
+  - first:
+      213: -6601096840647567004
+    second: Jefe de Humo (2)_190
+  - first:
+      213: -7969881940687711045
+    second: Jefe de Humo (2)_191
+  - first:
+      213: 5667237885431632159
+    second: Jefe de Humo (2)_192
+  - first:
+      213: 7519692912580273427
+    second: Jefe de Humo (2)_193
+  - first:
+      213: -8308806248662338859
+    second: Jefe de Humo (2)_194
+  - first:
+      213: -8281269620212242869
+    second: Jefe de Humo (2)_195
+  - first:
+      213: -8214752292133579975
+    second: Jefe de Humo (2)_196
+  - first:
+      213: 4225914658900332700
+    second: Jefe de Humo (2)_197
+  - first:
+      213: 3768864610294271484
+    second: Jefe de Humo (2)_198
+  - first:
+      213: -8432503398448189365
+    second: Jefe de Humo (2)_199
+  - first:
+      213: -8642367872241668344
+    second: Jefe de Humo (2)_200
+  - first:
+      213: 9034006225137157791
+    second: Jefe de Humo (2)_201
+  - first:
+      213: -5463153088300111571
+    second: Jefe de Humo (2)_202
+  - first:
+      213: 1061855265691298728
+    second: Jefe de Humo (2)_203
+  - first:
+      213: 7280022122276952857
+    second: Jefe de Humo (2)_204
+  - first:
+      213: 4330236425296579680
+    second: Jefe de Humo (2)_205
+  - first:
+      213: -5954144568629033947
+    second: Jefe de Humo (2)_206
+  - first:
+      213: 2612974292881348183
+    second: Jefe de Humo (2)_207
+  - first:
+      213: 5960256328466479129
+    second: Jefe de Humo (2)_208
+  - first:
+      213: -7787895564843433620
+    second: Jefe de Humo (2)_209
+  - first:
+      213: 1350312878864167855
+    second: Jefe de Humo (2)_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4890f084460a890800000000000000
+      internalID: -7448843523018095425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 646
+        width: 243
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21190eaf8d67430800000000000000
+      internalID: 3780447509245137625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 631
+        width: 233
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccfb716e0e09d120800000000000000
+      internalID: 2438996128125680835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 805
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0834e24923fc4c40800000000000000
+      internalID: 5498036603653994508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 742
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893502df24f46300800000000000000
+      internalID: 244588766009047439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 648
+        width: 201
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ba645b0e087ae0800000000000000
+      internalID: -1551474629805427605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 786
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af4ce0188b8b0e0800000000000000
+      internalID: -2253848749060851112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 773
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330bc34b14a69b20800000000000000
+      internalID: 3140878227145950014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 854
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b455ba3fd89874d0800000000000000
+      internalID: -3136589055933459273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 646
+        width: 192
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06680d7e657682e90800000000000000
+      internalID: -7050271593694460320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_10
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 645
+        width: 211
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d2b2f1c00c4c840800000000000000
+      internalID: 5243527024461163859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 850
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48d7304fbd2cd9a0800000000000000
+      internalID: -6207035886983980982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 765
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04005b0ad27e7c230800000000000000
+      internalID: 3659147405417578560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 648
+        width: 196
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905405eb586353c0800000000000000
+      internalID: -4372036069353041775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_14
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 634
+        width: 203
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ed9ac1b00f2ef0800000000000000
+      internalID: -130885100561897806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_15
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 632
+        width: 253
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852e767b3b250060800000000000000
+      internalID: 6918983936915678595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 745
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301914f6d1ed15c30800000000000000
+      internalID: 4346499333391225091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_17
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 789
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec55e28fa6cf9d0800000000000000
+      internalID: -2739196859186295060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 732
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9617a718acc07ce0800000000000000
+      internalID: -1409401661043566947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 690
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96909be07280b23e0800000000000000
+      internalID: -2077557839257597591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_20
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 664
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e805ac273f15db0800000000000000
+      internalID: -4804791653081510268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_21
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 695
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ada5361f9259d0800000000000000
+      internalID: -2786990301650246650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 679
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54084af7ddf90a040800000000000000
+      internalID: 4656897788379168837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 694
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4117d0ef10770d0800000000000000
+      internalID: -3425266800933137224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_24
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 646
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8411618fb2ccb30800000000000000
+      internalID: 4308867288008837364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 675
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f0979cd1f1825e0800000000000000
+      internalID: -1934261827160961146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 662
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49589c060f12d1e0800000000000000
+      internalID: -2174641559224952497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_27
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 680
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8777107fb930980800000000000000
+      internalID: -8573837780399458119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_28
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 684
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abef33b02c9ab830800000000000000
+      internalID: 4087751276052343713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 662
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec0a72bfb1ecba0800000000000000
+      internalID: -6066880882505888154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 649
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae223c298ab45ab70800000000000000
+      internalID: 8909610625211245290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 668
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f49487d763e84420800000000000000
+      internalID: 2614589618825499891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 668
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767bbf9d2dde0f70800000000000000
+      internalID: 9155498280513926780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 654
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615200c7f29da9df0800000000000000
+      internalID: -172586837733268202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_34
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 644
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919c2326646fc0220800000000000000
+      internalID: 2453606679165716761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_35
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 644
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3c85fa09db9190800000000000000
+      internalID: -7954525675727340840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_36
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 654
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deeee10a79108260800000000000000
+      internalID: 7097701024545042135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 646
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e456a7a3a084b00800000000000000
+      internalID: 812910979018214990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 487
+        width: 205
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e18458d6da5240800000000000000
+      internalID: 4781370179026281410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 493
+        width: 202
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4454d29f16c0c6770800000000000000
+      internalID: 8605266602930029892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 650
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9cab86504bffe0800000000000000
+      internalID: -1154258139035688996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 644
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6452a018c2082170800000000000000
+      internalID: 8153770183650071658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_42
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 644
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb1c0e4a60ddff0800000000000000
+      internalID: -9844318969676276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 646
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a82478e558d0ea0800000000000000
+      internalID: -5904916895370147244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 646
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236a6eccf7209bd70800000000000000
+      internalID: 9059274873354233394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 636
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8cfccb2c8504290800000000000000
+      internalID: -7908223352247957337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 636
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859e35ec94361660800000000000000
+      internalID: 7356124889821910414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_47
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 656
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf3a1cb65f541f20800000000000000
+      internalID: 3392441245444489142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_48
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 636
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e84b8cbf84518e10800000000000000
+      internalID: 2198131069453813992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_49
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 646
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7110da79e8c28800800000000000000
+      internalID: 613273404389200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_50
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 489
+        width: 213
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3ff4b2f4cf3d9f0800000000000000
+      internalID: -444734521220271130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 646
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fee0367df778dad0800000000000000
+      internalID: -2677258047978410247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 630
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeb66fddbf719e50800000000000000
+      internalID: 6814368164661870303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_53
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 495
+        width: 206
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ac8df3c75766c0800000000000000
+      internalID: -4150252032314529497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 483
+        width: 205
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc50f53f9dcb410800000000000000
+      internalID: 1494308815674657818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 486
+        width: 257
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741bfa72df55e6630800000000000000
+      internalID: 3922166871267193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5a58ed39b5511d0800000000000000
+      internalID: -3380695254620068408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_57
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 614
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b30fc8329a68330800000000000000
+      internalID: 3712840912967056194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_58
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 473
+        width: 209
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a13ca569b7200c0800000000000000
+      internalID: -4610987182775920019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_59
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 622
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36578dcf19298dba0800000000000000
+      internalID: -6063935742544415389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_60
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 624
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95658ffa69c8a4040800000000000000
+      internalID: 4632669745529247321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_61
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 614
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0893a46a05c5ec0800000000000000
+      internalID: -3576895328898940714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_62
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 428
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57538f61c7fcac30800000000000000
+      internalID: 4372141748441536346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 600
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c580aa8eca45920800000000000000
+      internalID: 2978195368883805303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_64
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 615
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f4274160765a5b0800000000000000
+      internalID: -5357762905876836608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_65
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 582
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b608ee74023e51e70800000000000000
+      internalID: 9085417551075115115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 596
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255da7d65f20bb0c0800000000000000
+      internalID: -4559046944655485614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 588
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e99fe37bd543340800000000000000
+      internalID: 4842598540947070575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_68
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 598
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c053a5f9c2ac4b60800000000000000
+      internalID: 7731733648581546176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_69
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 533
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fc7f8ef5ac6910800000000000000
+      internalID: 1832021661180556985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_70
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 519
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ce417c0e1eb9e0800000000000000
+      internalID: -1603811378507888719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_71
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 487
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987010493665e4940800000000000000
+      internalID: 5282254398637016969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 491
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a72c16c47c1220800000000000000
+      internalID: 2457967890862154057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 485
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3fae6645592b380800000000000000
+      internalID: -8956932519150029884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_74
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 498
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ec0884aa5582a50800000000000000
+      internalID: 6496536652331142672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_75
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 491
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabf0e8fc6cab6520800000000000000
+      internalID: 2696438385943313324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_76
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 489
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a045f0c80dfc30a0800000000000000
+      internalID: -6900362314999578460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_77
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 483
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86191a19fd4d5efa0800000000000000
+      internalID: -5771973290719342232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 329
+        width: 201
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eadd264ed08f2560800000000000000
+      internalID: 7291188013884627689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 467
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73476e57403365820800000000000000
+      internalID: 2906566703765156919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_80
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 295
+        width: 233
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d00b1894eb917800800000000000000
+      internalID: 608438830778482901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_81
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51738c517b6f0670800000000000000
+      internalID: 8507136355753750877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 332
+        width: 204
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ecdbd89fb86fd00800000000000000
+      internalID: 1006145470705028683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_83
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 469
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f55c0f9c9d0c190800000000000000
+      internalID: -7944110281330434206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_84
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 327
+        width: 207
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5efecf82080180800000000000000
+      internalID: -9149059826326807823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_85
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 281
+        width: 267
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d686c7dd67849080800000000000000
+      internalID: -9181564834460301613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_86
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 470
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb887bbacbfa34b0800000000000000
+      internalID: -5459774750086099972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 471
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75f87e773b9e3e0800000000000000
+      internalID: -2023889229958916143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_88
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 473
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d3bf4ddc654d20800000000000000
+      internalID: 3262133202880548936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_89
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177fa149631504490800000000000000
+      internalID: -7764116462731856015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_90
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 430
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74f614b303fe3390800000000000000
+      internalID: -7836559104346229636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_91
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 461
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1680bc7f2fdfd60800000000000000
+      internalID: 7925758065319109107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_92
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 473
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d157a68dddeaaa90800000000000000
+      internalID: -7301762310125170219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_93
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 469
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbaa19348ac7bb0800000000000000
+      internalID: -4936886083344745385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_94
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 457
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44887494428af34b0800000000000000
+      internalID: -5458459349548038076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_95
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 457
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5e364dba1079c0800000000000000
+      internalID: -3931613074464809311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_96
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 297
+        width: 239
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ebe5e41baab830800000000000000
+      internalID: 4087767718037283452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_97
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 418
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7591b7b5ca7aa0800000000000000
+      internalID: -6162395747354051679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_98
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 453
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8fdd300dd9d830800000000000000
+      internalID: 4096548329177976587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_99
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 455
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f193626208caf950800000000000000
+      internalID: 6483714526119432696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_100
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 457
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca71f4fd424b1440800000000000000
+      internalID: 4907589121539668675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_101
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 217
+        width: 205
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc1a2008578a8650800000000000000
+      internalID: 6235945446077504760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_102
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 436
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e061381bea66a0800000000000000
+      internalID: -6455088626742009745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_103
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 441
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88861c9d5b67c4f80800000000000000
+      internalID: -8120985504641357688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_104
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 417
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbf8dea7a573cd70800000000000000
+      internalID: 9062216238253013965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_105
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 366
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a0c9948231cfd0800000000000000
+      internalID: -2323520387649855290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_106
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 364
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d44f080df8d64d0800000000000000
+      internalID: -3139695239527903992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_107
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 308
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91143931099193a60800000000000000
+      internalID: 7654177148287271193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_108
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 358
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6bdcead49ea6640800000000000000
+      internalID: 5074124450040755953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_109
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 364
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08082fa80d36a8b10800000000000000
+      internalID: 1984508333145620608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_110
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 346
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a971fabb3889aab30800000000000000
+      internalID: 4299416485835511706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_111
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 338
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16877abf9651dc750800000000000000
+      internalID: 6326736596463220833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_112
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 136
+        width: 213
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0e0766828bb040800000000000000
+      internalID: 4664465352838483282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_113
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 343
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050f1dbc6733d0320800000000000000
+      internalID: 2525731551343407184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_114
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 275
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71572d4c43c591860800000000000000
+      internalID: 7501128036072453399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_115
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7decc8d724b32e0800000000000000
+      internalID: -2145047690511198287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_116
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 330
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971078aea4939d00800000000000000
+      internalID: 978289021940668312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806fef233d799000800000000000000
+      internalID: 43203330237751425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 164
+        width: 201
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d386d183ec9fb0800000000000000
+      internalID: -4639583369309202346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_119
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 311
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8004b468b66b710800000000000000
+      internalID: 1708671333165959390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_120
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 55
+        width: 243
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f108f599ecb580800000000000000
+      internalID: -8809909940723255539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_121
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 313
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad19579295e67ef0800000000000000
+      internalID: -110648723056812630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_122
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 312
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d7f57adb2a2fe0800000000000000
+      internalID: -1213108932340885845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_123
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 311
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4798cff1dba91c0800000000000000
+      internalID: -4496073332897516364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_124
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 152
+        width: 211
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781aa6c75c3c86dd0800000000000000
+      internalID: -2492527140786232953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_125
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 305
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5d40c9ac349d10800000000000000
+      internalID: 2131395223426522883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_126
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 307
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b23a13674ab040800000000000000
+      internalID: 4664118855062434736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_127
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 315
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ef8fefdda34f90800000000000000
+      internalID: -6970536620930898770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_128
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 321
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006528237c41f9f0800000000000000
+      internalID: -436483631399739389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_129
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 325
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985be691265f73040800000000000000
+      internalID: 4627436943828759945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_130
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 321
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e30b116ad438730800000000000000
+      internalID: 4000126269691805305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_131
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 310
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d34ee32f20a32e0800000000000000
+      internalID: -2145399033028133565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_132
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 324
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73113fcc2886b5440800000000000000
+      internalID: 4925645528453288247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_133
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 321
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c9db3b957d3360800000000000000
+      internalID: 7151001092918723682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_134
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 235
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591c2fc22a175600800000000000000
+      internalID: 456862624008378716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_135
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 263
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56666533b756b0b0800000000000000
+      internalID: -5713282650066229668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_136
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 307
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44fbe1d1049eca0800000000000000
+      internalID: -5987183735798283076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_137
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 309
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb4126699a74bd0800000000000000
+      internalID: -2645959792701162438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_138
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 313
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567cd4eb30fcfcfd0800000000000000
+      internalID: -2319407668087896219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_139
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 65
+        width: 207
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7813bf35006324b0800000000000000
+      internalID: -5466419947037845380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_140
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 269
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9755e871894f770800000000000000
+      internalID: 8643700811770460583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_141
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 233
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988a4a1a5cc63de0800000000000000
+      internalID: -1353669950618040167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_142
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 98
+        width: 265
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041a8eb0121323f0800000000000000
+      internalID: -926877235182693368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_143
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 283
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb633c17e62af4b10800000000000000
+      internalID: 1967970157422917308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_144
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 289
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331af3f3e3412a760800000000000000
+      internalID: 7467553389715366195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_145
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 241
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71fb1f37dce5ad0800000000000000
+      internalID: -2711504027769694225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_146
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 265
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a600850c4610ca20800000000000000
+      internalID: 3080486660887021222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_147
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 257
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5886ecfc7ca8c0800000000000000
+      internalID: -3986674144488433114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_148
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 227
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44348bc34b0ffe40800000000000000
+      internalID: 5692280839824749644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_149
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 247
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f72654e30515630800000000000000
+      internalID: 3913997779543949211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_150
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 176
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6476ba6fc809a1ac0800000000000000
+      internalID: -3883632793545382074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_151
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 227
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a9a4e1122299ed0800000000000000
+      internalID: -2406855000215348681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_152
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 246
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a77c067576917020800000000000000
+      internalID: 2337815112817866663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_153
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 248
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cb8100493b47040800000000000000
+      internalID: 4644534563963976832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_154
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 239
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcc9b62da2f3f90800000000000000
+      internalID: -6971806614909301792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_155
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 229
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60438cb5e14dd7770800000000000000
+      internalID: 8610271289456210950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_156
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 84
+        width: 187
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c9411846c020ad0800000000000000
+      internalID: -2737611997685965673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_157
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 244
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d534fa45671c8df0800000000000000
+      internalID: -176740561557637675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_158
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 223
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d79ed08eb2a31d60800000000000000
+      internalID: 7859804713781204947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_159
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 217
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc99b83f293db240800000000000000
+      internalID: 4809062852079492289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_160
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 203
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0b791b6a1f5e120800000000000000
+      internalID: 2442624071164735673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_161
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 200
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281713ea3adee01f0800000000000000
+      internalID: -1076661973637041790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa562db5a20ebb4e0800000000000000
+      internalID: -1964730339883326033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_163
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 152
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbaa925f7f5318d0800000000000000
+      internalID: -2876850736508261452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_164
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd6e2c31a78cec0800000000000000
+      internalID: -3546450481261387812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_165
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 114
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b025a481b7e32a6e0800000000000000
+      internalID: -1827829800349576693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_166
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 162
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b82cbfe3c775c0800000000000000
+      internalID: -4217687091587795883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_167
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 124
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae90df8e4f1e37940800000000000000
+      internalID: 5292822429087631850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_168
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 158
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb6bea89544ebf90800000000000000
+      internalID: -6936031224730522700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_169
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 172
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd32bf038e3d5f0800000000000000
+      internalID: -732987017261753596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_170
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc13f81125eb0de10800000000000000
+      internalID: 2220483875984847311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_171
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 144
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441e735c790028d0800000000000000
+      internalID: -2873286132681010111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_172
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 110
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996638a43e2802120800000000000000
+      internalID: 2387051715225675417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_173
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 29
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b751c9c35dec600800000000000000
+      internalID: 490563865723370343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_174
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 114
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df99f96d834de8400800000000000000
+      internalID: 328433163428665853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_175
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 118
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccce92c7d49d4410800000000000000
+      internalID: 1462989108369345734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_176
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 110
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bca73b8e6e59220800000000000000
+      internalID: 2492151855937407775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_177
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 122
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b6ee2de238c5bd0800000000000000
+      internalID: -2640091044415378667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_178
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 15
+        width: 174
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ef2249af75abc0800000000000000
+      internalID: -3772468747916287347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_179
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 95
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a639c696489950800000000000000
+      internalID: 6455987679270446812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_180
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 221
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767dbe2c28826f0d0800000000000000
+      internalID: -3389477127468624025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_181
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03f815bb42108ca0800000000000000
+      internalID: -6016788985796824310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_182
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 106
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1cb2e7775bcc4e0800000000000000
+      internalID: -1959992212990475812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_183
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 122
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc25d7a75c889d70800000000000000
+      internalID: 9050137759306820853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_184
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 19
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40239de4995d1b20800000000000000
+      internalID: 3106737814131384395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_185
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 118
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f64e977e94a05400800000000000000
+      internalID: 310929374807213812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_186
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 120
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb04d4219aee8d620800000000000000
+      internalID: 2799249578334699708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_187
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 31
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aee5f85baf57410800000000000000
+      internalID: 1474360110735092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_188
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1fce9db2e9bc70800000000000000
+      internalID: 8987463835435604939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_189
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 91
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87751981917669900800000000000000
+      internalID: 690852950331971448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_190
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4699f35c5613464a0800000000000000
+      internalID: -6601096840647567004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_191
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 102
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41287e99a456190800000000000000
+      internalID: -7969881940687711045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_192
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 94
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d9ca94d216ae40800000000000000
+      internalID: 5667237885431632159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_193
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 80
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ae5aecd05b5860800000000000000
+      internalID: 7519692912580273427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_194
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 63
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27fe02db031bc80800000000000000
+      internalID: -8308806248662338859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_195
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 92
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e30e0825031d80800000000000000
+      internalID: -8281269620212242869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_196
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 69
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9335d8d50565ffd80800000000000000
+      internalID: -8214752292133579975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_197
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 39
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dede0ef675aa30800000000000000
+      internalID: 4225914658900332700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_198
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 22
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd812f0562bd4430800000000000000
+      internalID: 3768864610294271484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_199
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 63
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b83026dab9fa80800000000000000
+      internalID: -8432503398448189365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_200
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 37
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f69cc9534201880800000000000000
+      internalID: -8642367872241668344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_201
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 16
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c7fb2ccc3f5d70800000000000000
+      internalID: 9034006225137157791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_202
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292b42163bfe24b0800000000000000
+      internalID: -5463153088300111571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab686afcb77cbe00800000000000000
+      internalID: 1061855265691298728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_204
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b9d4b8c85d70560800000000000000
+      internalID: 7280022122276952857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_205
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c82431617181c30800000000000000
+      internalID: 4330236425296579680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_206
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248b8daf01ae5da0800000000000000
+      internalID: -5954144568629033947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_207
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7569b667646234420800000000000000
+      internalID: 2612974292881348183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_208
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918b48c4d8517b250800000000000000
+      internalID: 5960256328466479129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_209
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 21
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61caadee36dbe390800000000000000
+      internalID: -7787895564843433620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe de Humo (2)_210
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37558b8664db210800000000000000
+      internalID: 1350312878864167855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jefe de Humo (2)_0: -7448843523018095425
+      Jefe de Humo (2)_1: 3780447509245137625
+      Jefe de Humo (2)_10: 5243527024461163859
+      Jefe de Humo (2)_100: 4907589121539668675
+      Jefe de Humo (2)_101: 6235945446077504760
+      Jefe de Humo (2)_102: -6455088626742009745
+      Jefe de Humo (2)_103: -8120985504641357688
+      Jefe de Humo (2)_104: 9062216238253013965
+      Jefe de Humo (2)_105: -2323520387649855290
+      Jefe de Humo (2)_106: -3139695239527903992
+      Jefe de Humo (2)_107: 7654177148287271193
+      Jefe de Humo (2)_108: 5074124450040755953
+      Jefe de Humo (2)_109: 1984508333145620608
+      Jefe de Humo (2)_11: -6207035886983980982
+      Jefe de Humo (2)_110: 4299416485835511706
+      Jefe de Humo (2)_111: 6326736596463220833
+      Jefe de Humo (2)_112: 4664465352838483282
+      Jefe de Humo (2)_113: 2525731551343407184
+      Jefe de Humo (2)_114: 7501128036072453399
+      Jefe de Humo (2)_115: -2145047690511198287
+      Jefe de Humo (2)_116: 978289021940668312
+      Jefe de Humo (2)_117: 43203330237751425
+      Jefe de Humo (2)_118: -4639583369309202346
+      Jefe de Humo (2)_119: 1708671333165959390
+      Jefe de Humo (2)_12: 3659147405417578560
+      Jefe de Humo (2)_120: -8809909940723255539
+      Jefe de Humo (2)_121: -110648723056812630
+      Jefe de Humo (2)_122: -1213108932340885845
+      Jefe de Humo (2)_123: -4496073332897516364
+      Jefe de Humo (2)_124: -2492527140786232953
+      Jefe de Humo (2)_125: 2131395223426522883
+      Jefe de Humo (2)_126: 4664118855062434736
+      Jefe de Humo (2)_127: -6970536620930898770
+      Jefe de Humo (2)_128: -436483631399739389
+      Jefe de Humo (2)_129: 4627436943828759945
+      Jefe de Humo (2)_13: -4372036069353041775
+      Jefe de Humo (2)_130: 4000126269691805305
+      Jefe de Humo (2)_131: -2145399033028133565
+      Jefe de Humo (2)_132: 4925645528453288247
+      Jefe de Humo (2)_133: 7151001092918723682
+      Jefe de Humo (2)_134: 456862624008378716
+      Jefe de Humo (2)_135: -5713282650066229668
+      Jefe de Humo (2)_136: -5987183735798283076
+      Jefe de Humo (2)_137: -2645959792701162438
+      Jefe de Humo (2)_138: -2319407668087896219
+      Jefe de Humo (2)_139: -5466419947037845380
+      Jefe de Humo (2)_14: -130885100561897806
+      Jefe de Humo (2)_140: 8643700811770460583
+      Jefe de Humo (2)_141: -1353669950618040167
+      Jefe de Humo (2)_142: -926877235182693368
+      Jefe de Humo (2)_143: 1967970157422917308
+      Jefe de Humo (2)_144: 7467553389715366195
+      Jefe de Humo (2)_145: -2711504027769694225
+      Jefe de Humo (2)_146: 3080486660887021222
+      Jefe de Humo (2)_147: -3986674144488433114
+      Jefe de Humo (2)_148: 5692280839824749644
+      Jefe de Humo (2)_149: 3913997779543949211
+      Jefe de Humo (2)_15: 6918983936915678595
+      Jefe de Humo (2)_150: -3883632793545382074
+      Jefe de Humo (2)_151: -2406855000215348681
+      Jefe de Humo (2)_152: 2337815112817866663
+      Jefe de Humo (2)_153: 4644534563963976832
+      Jefe de Humo (2)_154: -6971806614909301792
+      Jefe de Humo (2)_155: 8610271289456210950
+      Jefe de Humo (2)_156: -2737611997685965673
+      Jefe de Humo (2)_157: -176740561557637675
+      Jefe de Humo (2)_158: 7859804713781204947
+      Jefe de Humo (2)_159: 4809062852079492289
+      Jefe de Humo (2)_16: 4346499333391225091
+      Jefe de Humo (2)_160: 2442624071164735673
+      Jefe de Humo (2)_161: -1076661973637041790
+      Jefe de Humo (2)_162: -1964730339883326033
+      Jefe de Humo (2)_163: -2876850736508261452
+      Jefe de Humo (2)_164: -3546450481261387812
+      Jefe de Humo (2)_165: -1827829800349576693
+      Jefe de Humo (2)_166: -4217687091587795883
+      Jefe de Humo (2)_167: 5292822429087631850
+      Jefe de Humo (2)_168: -6936031224730522700
+      Jefe de Humo (2)_169: -732987017261753596
+      Jefe de Humo (2)_17: -2739196859186295060
+      Jefe de Humo (2)_170: 2220483875984847311
+      Jefe de Humo (2)_171: -2873286132681010111
+      Jefe de Humo (2)_172: 2387051715225675417
+      Jefe de Humo (2)_173: 490563865723370343
+      Jefe de Humo (2)_174: 328433163428665853
+      Jefe de Humo (2)_175: 1462989108369345734
+      Jefe de Humo (2)_176: 2492151855937407775
+      Jefe de Humo (2)_177: -2640091044415378667
+      Jefe de Humo (2)_178: -3772468747916287347
+      Jefe de Humo (2)_179: 6455987679270446812
+      Jefe de Humo (2)_18: -1409401661043566947
+      Jefe de Humo (2)_180: -3389477127468624025
+      Jefe de Humo (2)_181: -6016788985796824310
+      Jefe de Humo (2)_182: -1959992212990475812
+      Jefe de Humo (2)_183: 9050137759306820853
+      Jefe de Humo (2)_184: 3106737814131384395
+      Jefe de Humo (2)_185: 310929374807213812
+      Jefe de Humo (2)_186: 2799249578334699708
+      Jefe de Humo (2)_187: 1474360110735092228
+      Jefe de Humo (2)_188: 8987463835435604939
+      Jefe de Humo (2)_189: 690852950331971448
+      Jefe de Humo (2)_19: -2077557839257597591
+      Jefe de Humo (2)_190: -6601096840647567004
+      Jefe de Humo (2)_191: -7969881940687711045
+      Jefe de Humo (2)_192: 5667237885431632159
+      Jefe de Humo (2)_193: 7519692912580273427
+      Jefe de Humo (2)_194: -8308806248662338859
+      Jefe de Humo (2)_195: -8281269620212242869
+      Jefe de Humo (2)_196: -8214752292133579975
+      Jefe de Humo (2)_197: 4225914658900332700
+      Jefe de Humo (2)_198: 3768864610294271484
+      Jefe de Humo (2)_199: -8432503398448189365
+      Jefe de Humo (2)_2: 2438996128125680835
+      Jefe de Humo (2)_20: -4804791653081510268
+      Jefe de Humo (2)_200: -8642367872241668344
+      Jefe de Humo (2)_201: 9034006225137157791
+      Jefe de Humo (2)_202: -5463153088300111571
+      Jefe de Humo (2)_203: 1061855265691298728
+      Jefe de Humo (2)_204: 7280022122276952857
+      Jefe de Humo (2)_205: 4330236425296579680
+      Jefe de Humo (2)_206: -5954144568629033947
+      Jefe de Humo (2)_207: 2612974292881348183
+      Jefe de Humo (2)_208: 5960256328466479129
+      Jefe de Humo (2)_209: -7787895564843433620
+      Jefe de Humo (2)_21: -2786990301650246650
+      Jefe de Humo (2)_210: 1350312878864167855
+      Jefe de Humo (2)_22: 4656897788379168837
+      Jefe de Humo (2)_23: -3425266800933137224
+      Jefe de Humo (2)_24: 4308867288008837364
+      Jefe de Humo (2)_25: -1934261827160961146
+      Jefe de Humo (2)_26: -2174641559224952497
+      Jefe de Humo (2)_27: -8573837780399458119
+      Jefe de Humo (2)_28: 4087751276052343713
+      Jefe de Humo (2)_29: -6066880882505888154
+      Jefe de Humo (2)_3: 5498036603653994508
+      Jefe de Humo (2)_30: 8909610625211245290
+      Jefe de Humo (2)_31: 2614589618825499891
+      Jefe de Humo (2)_32: 9155498280513926780
+      Jefe de Humo (2)_33: -172586837733268202
+      Jefe de Humo (2)_34: 2453606679165716761
+      Jefe de Humo (2)_35: -7954525675727340840
+      Jefe de Humo (2)_36: 7097701024545042135
+      Jefe de Humo (2)_37: 812910979018214990
+      Jefe de Humo (2)_38: 4781370179026281410
+      Jefe de Humo (2)_39: 8605266602930029892
+      Jefe de Humo (2)_4: 244588766009047439
+      Jefe de Humo (2)_40: -1154258139035688996
+      Jefe de Humo (2)_41: 8153770183650071658
+      Jefe de Humo (2)_42: -9844318969676276
+      Jefe de Humo (2)_43: -5904916895370147244
+      Jefe de Humo (2)_44: 9059274873354233394
+      Jefe de Humo (2)_45: -7908223352247957337
+      Jefe de Humo (2)_46: 7356124889821910414
+      Jefe de Humo (2)_47: 3392441245444489142
+      Jefe de Humo (2)_48: 2198131069453813992
+      Jefe de Humo (2)_49: 613273404389200255
+      Jefe de Humo (2)_5: -1551474629805427605
+      Jefe de Humo (2)_50: -444734521220271130
+      Jefe de Humo (2)_51: -2677258047978410247
+      Jefe de Humo (2)_52: 6814368164661870303
+      Jefe de Humo (2)_53: -4150252032314529497
+      Jefe de Humo (2)_54: 1494308815674657818
+      Jefe de Humo (2)_55: 3922166871267193159
+      Jefe de Humo (2)_56: -3380695254620068408
+      Jefe de Humo (2)_57: 3712840912967056194
+      Jefe de Humo (2)_58: -4610987182775920019
+      Jefe de Humo (2)_59: -6063935742544415389
+      Jefe de Humo (2)_6: -2253848749060851112
+      Jefe de Humo (2)_60: 4632669745529247321
+      Jefe de Humo (2)_61: -3576895328898940714
+      Jefe de Humo (2)_62: 4372141748441536346
+      Jefe de Humo (2)_63: 2978195368883805303
+      Jefe de Humo (2)_64: -5357762905876836608
+      Jefe de Humo (2)_65: 9085417551075115115
+      Jefe de Humo (2)_66: -4559046944655485614
+      Jefe de Humo (2)_67: 4842598540947070575
+      Jefe de Humo (2)_68: 7731733648581546176
+      Jefe de Humo (2)_69: 1832021661180556985
+      Jefe de Humo (2)_7: 3140878227145950014
+      Jefe de Humo (2)_70: -1603811378507888719
+      Jefe de Humo (2)_71: 5282254398637016969
+      Jefe de Humo (2)_72: 2457967890862154057
+      Jefe de Humo (2)_73: -8956932519150029884
+      Jefe de Humo (2)_74: 6496536652331142672
+      Jefe de Humo (2)_75: 2696438385943313324
+      Jefe de Humo (2)_76: -6900362314999578460
+      Jefe de Humo (2)_77: -5771973290719342232
+      Jefe de Humo (2)_78: 7291188013884627689
+      Jefe de Humo (2)_79: 2906566703765156919
+      Jefe de Humo (2)_8: -3136589055933459273
+      Jefe de Humo (2)_80: 608438830778482901
+      Jefe de Humo (2)_81: 8507136355753750877
+      Jefe de Humo (2)_82: 1006145470705028683
+      Jefe de Humo (2)_83: -7944110281330434206
+      Jefe de Humo (2)_84: -9149059826326807823
+      Jefe de Humo (2)_85: -9181564834460301613
+      Jefe de Humo (2)_86: -5459774750086099972
+      Jefe de Humo (2)_87: -2023889229958916143
+      Jefe de Humo (2)_88: 3262133202880548936
+      Jefe de Humo (2)_89: -7764116462731856015
+      Jefe de Humo (2)_9: -7050271593694460320
+      Jefe de Humo (2)_90: -7836559104346229636
+      Jefe de Humo (2)_91: 7925758065319109107
+      Jefe de Humo (2)_92: -7301762310125170219
+      Jefe de Humo (2)_93: -4936886083344745385
+      Jefe de Humo (2)_94: -5458459349548038076
+      Jefe de Humo (2)_95: -3931613074464809311
+      Jefe de Humo (2)_96: 4087767718037283452
+      Jefe de Humo (2)_97: -6162395747354051679
+      Jefe de Humo (2)_98: 4096548329177976587
+      Jefe de Humo (2)_99: 6483714526119432696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

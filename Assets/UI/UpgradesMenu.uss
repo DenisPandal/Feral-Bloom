@@ -1,0 +1,275 @@
+/* ============================================================ */
+/*            PANTALLA HORIZONTAL: ITEMS DE MEJORA             */
+/*              ESTILO FANTASÍA OSCURA BIOLUMINISCENTE          */
+/* ============================================================ */
+
+.upgrades-overlay {
+    flex-grow: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(3, 10, 14, 0.88);
+    padding: 25px;
+}
+
+.upgrades-frame {
+    width: 96%;
+    max-width: 1300px;
+    background-color: rgba(6, 18, 22, 0.96);
+    border-color: rgba(65, 220, 165, 0.8);
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 22px 28px;
+    box-shadow: 0 0 30px rgba(25, 150, 110, 0.4);
+}
+
+/* Encabezados */
+.upgrades-header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(50, 170, 130, 0.35);
+}
+
+.header-center {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.upgrades-title-image {
+    width: 380px;
+    height: 120px;
+    background-image: url("project://database/Assets/Sprites/Titulo Mutaciones.png");
+    -unity-background-scale-mode: scale-to-fit;
+    margin-bottom: 5px;
+    margin-top: -70px;
+}
+
+
+
+/* Fila de 8 Casillas Horizontales */
+.slots-row {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.slot-card {
+    flex: 1;
+    height: 160px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 14px;
+    padding: 10px 6px;
+    align-items: center;
+    justify-content: space-between;
+    transition-property: scale, border-color;
+    transition-duration: 0.2s;
+}
+
+
+
+/* Casilla 1 - Desbloqueada (Bioluminiscente, marcos coloridos) */
+.slot-unlocked {
+    background-color: rgba(14, 42, 38, 0.95);
+    border-width: 2px;
+    border-top-color: rgb(255, 90, 80);
+    border-right-color: rgb(255, 225, 60);
+    border-bottom-color: rgb(65, 255, 140);
+    border-left-color: rgb(255, 190, 50);
+}
+
+.slot-unlocked:hover {
+    scale: 1.05;
+    border-top-color: rgb(255, 120, 110);
+    border-right-color: rgb(255, 245, 90);
+    border-bottom-color: rgb(110, 255, 175);
+    border-left-color: rgb(255, 215, 85);
+}
+
+
+
+.power-art-container {
+    width: 100%;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.bloom-glow-aura {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgba(70, 255, 160, 0.2);
+}
+
+.bloom-flower {
+    width: 55px;
+    height: 55px;
+    border-radius: 27px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(24, 75, 65, 0.85);
+    border-width: 2px;
+    border-color: rgb(110, 255, 180);
+}
+
+.bloom-icon {
+    font-size: 32px;
+    color: rgb(255, 115, 185);
+    text-shadow: 0 0 16px rgba(255, 225, 80, 0.9);
+}
+
+.particle {
+    position: absolute;
+    color: rgb(130, 255, 230);
+    text-shadow: 0 0 6px rgb(80, 255, 180);
+}
+
+.particle-1 {
+    top: 10px;
+    left: 14px;
+    font-size: 14px;
+    color: rgb(255, 225, 80);
+}
+
+.particle-2 {
+    bottom: 12px;
+    right: 16px;
+    font-size: 16px;
+    color: rgb(100, 255, 160);
+}
+
+.particle-3 {
+    top: 18px;
+    right: 12px;
+    font-size: 13px;
+    color: rgb(255, 140, 190);
+}
+
+.slot-footer {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.leaf-icon {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+.leaf-unlocked {
+    color: rgb(90, 255, 140);
+    text-shadow: 0 0 8px rgba(80, 255, 130, 0.9);
+}
+
+.slot-name {
+    -unity-text-align: middle-center;
+    white-space: normal;
+}
+
+.slot-name-unlocked {
+    font-size: 11px;
+    color: rgb(215, 255, 205);
+    -unity-font-style: bold;
+    letter-spacing: 0.5px;
+}
+
+/* Casillas 2 a 8 - Bloqueadas (Gris oscuro y apagado, silueta con ?) */
+.slot-locked {
+    background-color: rgba(14, 18, 20, 0.92);
+    border-width: 2px;
+    border-color: rgba(55, 65, 70, 0.75);
+}
+
+.slot-locked:hover {
+    border-color: rgba(85, 95, 100, 0.85);
+}
+
+
+
+.mystery-container {
+    width: 100%;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.mystery-silhouette {
+    position: absolute;
+    font-size: 50px;
+    color: rgba(28, 35, 38, 0.95);
+}
+
+.dash-silhouette {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url("project://database/Assets/Resources/Dash.png");
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-background-image-tint-color: rgba(18, 22, 25, 0.95);
+}
+
+.question-mark {
+    font-size: 36px;
+    color: rgba(125, 138, 145, 0.75);
+    -unity-font-style: bold;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.9);
+}
+
+.leaf-locked {
+    color: rgba(85, 95, 100, 0.45);
+}
+
+.slot-name-locked {
+    font-size: 11px;
+    color: rgba(110, 120, 125, 0.6);
+    -unity-font-style: bold;
+    letter-spacing: 2px;
+}
+
+/* Pie de Pantalla */
+.upgrades-footer {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+}
+
+
+
+.close-button {
+    width: 220px;
+    height: 120px;
+    background-image: url("project://database/Assets/Sprites/Cerrar.png");
+    -unity-background-scale-mode: scale-to-fit;
+    background-color: transparent;
+    border-width: 0px;
+    transition-property: scale;
+    transition-duration: 0.15s;
+    cursor: link;
+}
+
+.close-button:hover {
+    scale: 1.08;
+}
+
+.close-button:active {
+    scale: 0.96;
+}

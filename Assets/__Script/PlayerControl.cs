@@ -33,10 +33,26 @@ public class PlayerControl : MonoBehaviour
     [SerializeField] float jumpForce = 8f;
     [SerializeField] float jumpMax = 3.0f;
     [SerializeField] float jumpStart = 8f;
+    [Tooltip("Cantidad máxima de saltos (2 para doble salto)")]
+    [SerializeField] int maxJumps = 2;
+    [Tooltip("Fuerza del salto en el aire / doble salto")]
+    [SerializeField] float doubleJumpForce = 7.8f;
 
     [SerializeField] ParticleSystem dustFX;
 
+    int jumpsRemaining = 2;
+
+    [Header("--- Dash ---")]
+    [SerializeField] float dashSpeed = 22f;
+    [SerializeField] float dashDuration = 0.22f;
+    [SerializeField] float dashCooldown = 0.8f;
+    bool isDashing;
+    bool canDash = true;
+
     bool gameBeginning = true;
+    PlayerInput playerInput;
+    InputAction moveAction;
+    float lastJumpTime = -1f;
 
     bool isGoingUp {
         get {
@@ -49,6 +65,35 @@ public class PlayerControl : MonoBehaviour
         }
     }
 
+    void Awake()
+    {
+        Time.timeScale = 1f;
+        GameManager.isGameOn = true;
+        if (GameManager.health <= 0)
+        {
+            GameManager.health = 3;
+        }
+
+        playerInput = GetComponent<PlayerInput>();
+        ReactivateInput();
+    }
+
+    void OnEnable()
+    {
+        ReactivateInput();
+    }
+
+    void ReactivateInput()
+    {
+        if (playerInput != null)
+        {
+            playerInput.enabled = false;
+            playerInput.enabled = true;
+            playerInput.SwitchCurrentActionMap("Player");
+            playerInput.ActivateInput();
+            moveAction = playerInput.actions?.FindAction("Player/Move") ?? playerInput.actions?.FindAction("Move");
+        }
+    }
 
     void Start()
     {
@@ -57,6 +102,9 @@ public class PlayerControl : MonoBehaviour
         animator = GetComponentInChildren<Animator>();
         animator.SetTrigger("isAppearing");
         Door.OnGoingNextLevel += GoNextLevel;
+        jumpsRemaining = maxJumps;
+        t = 0f;
+        gameBeginning = true;
     }
 
     void OnDisable()
@@ -72,15 +120,66 @@ public class PlayerControl : MonoBehaviour
     float t = 0;
     void Update()
     {
+        if (isDashing) return;
+
         //delay at the game start for the chracter creation effect
         if (gameBeginning)
         {
-            t += Time.deltaTime;
+            t += Time.unscaledDeltaTime;
             if (t > 0.5f)
             {
                 gameBeginning = false;
             }
             return;
+        }
+
+        // Direct input read & fallback
+        float currentInputX = 0f;
+        if (moveAction != null && moveAction.enabled)
+        {
+            float actX = moveAction.ReadValue<Vector2>().x;
+            if (Mathf.Abs(actX) > 0.01f)
+            {
+                currentInputX = actX;
+            }
+        }
+
+        if (Mathf.Abs(currentInputX) < 0.01f && Keyboard.current != null)
+        {
+            if (Keyboard.current.aKey.isPressed || Keyboard.current.leftArrowKey.isPressed)
+                currentInputX -= 1f;
+            if (Keyboard.current.dKey.isPressed || Keyboard.current.rightArrowKey.isPressed)
+                currentInputX += 1f;
+        }
+
+        if (Mathf.Abs(currentInputX) < 0.01f && Gamepad.current != null)
+        {
+            float stickX = Gamepad.current.leftStick.x.ReadValue();
+            if (Mathf.Abs(stickX) > 0.1f)
+                currentInputX = stickX;
+            else if (Gamepad.current.dpad.left.isPressed)
+                currentInputX -= 1f;
+            else if (Gamepad.current.dpad.right.isPressed)
+                currentInputX += 1f;
+        }
+
+        moveX = currentInputX;
+
+        // Jump direct input fallback
+        if (Keyboard.current != null)
+        {
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+                TryPerformJump();
+            else if (Keyboard.current.spaceKey.wasReleasedThisFrame && isGoingUp)
+                rb.linearVelocityY *= 0.5f;
+        }
+
+        if (Gamepad.current != null)
+        {
+            if (Gamepad.current.buttonSouth.wasPressedThisFrame)
+                TryPerformJump();
+            else if (Gamepad.current.buttonSouth.wasReleasedThisFrame && isGoingUp)
+                rb.linearVelocityY *= 0.5f;
         }
 
         if (!isJumping)
@@ -101,6 +200,109 @@ public class PlayerControl : MonoBehaviour
         if (transform.position.y - jumpStart > jumpMax)
         {
             jumpMax = transform.position.y - jumpStart;
+        }
+
+        bool dashPressed = false;
+        if (Keyboard.current != null && Keyboard.current.shiftKey.wasPressedThisFrame) dashPressed = true;
+        if (Gamepad.current != null && Gamepad.current.rightShoulder.wasPressedThisFrame) dashPressed = true;
+
+        if (dashPressed && GameManager.hasDash && canDash)
+        {
+            StartCoroutine(PerformDash());
+            return;
+        }
+
+        // Melee attack input
+        bool meleePressed = false;
+        if (Keyboard.current != null && Keyboard.current.jKey.wasPressedThisFrame) meleePressed = true;
+        if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame) meleePressed = true;
+        if (Gamepad.current != null && Gamepad.current.buttonWest.wasPressedThisFrame) meleePressed = true;
+
+        if (meleePressed)
+        {
+            TryMeleeAttack();
+        }
+    }
+
+    IEnumerator PerformDash()
+    {
+        canDash = false;
+        isDashing = true;
+        
+        float originalGravity = rb.gravityScale;
+        rb.gravityScale = 0f;
+        
+        // Animación de dash
+        if (animator != null) animator.SetTrigger("isAttack"); // Puedes usar otra si tienes una animación de dash específica
+        
+        rb.linearVelocity = new Vector2(isFacingRight ? dashSpeed : -dashSpeed, 0f);
+        
+        StartCoroutine(DashGhostRoutine());
+
+        yield return new WaitForSeconds(dashDuration);
+        
+        rb.gravityScale = originalGravity;
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocityY);
+        isDashing = false;
+        
+        yield return new WaitForSeconds(dashCooldown);
+        canDash = true;
+    }
+
+    IEnumerator DashGhostRoutine()
+    {
+        SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+        if (sr == null) yield break;
+        
+        while (isDashing)
+        {
+            GameObject ghost = new GameObject("DashGhost");
+            ghost.transform.position = sr.transform.position;
+            ghost.transform.localScale = sr.transform.lossyScale;
+            
+            SpriteRenderer ghostSr = ghost.AddComponent<SpriteRenderer>();
+            ghostSr.sprite = sr.sprite;
+            ghostSr.sortingLayerName = sr.sortingLayerName;
+            ghostSr.sortingOrder = sr.sortingOrder - 1;
+            ghostSr.color = new Color(0.3f, 1f, 0.8f, 0.6f); // Cyan translúcido
+            
+            Destroy(ghost, 0.35f);
+            yield return new WaitForSeconds(0.04f); // Crea un fantasma cada pocos frames
+        }
+    }
+
+    [Header("--- Melee Attack ---")]
+    [SerializeField] float meleeCooldown = 0.35f;
+    [SerializeField] float meleeRange = 1.3f;
+    [SerializeField] int meleeDamage = 1;
+    float lastMeleeTime = -1f;
+    private static Sprite slashSprite;
+
+    void TryMeleeAttack()
+    {
+        if (Time.unscaledTime - lastMeleeTime < meleeCooldown) return;
+        lastMeleeTime = Time.unscaledTime;
+        
+        animator.SetTrigger("isAttack");
+        
+        SoundFXManager.Play("Hit"); // Sonido para espadazo
+        
+        // Detectar enemigos
+        Vector2 attackPoint = (Vector2)transform.position + new Vector2(isFacingRight ? 1f : -1f, 0.2f);
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint, meleeRange);
+        
+        foreach(var hit in hitEnemies)
+        {
+            var enemy = hit.GetComponentInParent<Enemy>();
+            if (enemy != null)
+            {
+                enemy.TakeDamage(meleeDamage);
+            }
+            var boss = hit.GetComponentInParent<BossController>();
+            if (boss != null)
+            {
+                boss.TakeMeleeDamage(meleeDamage);
+            }
         }
     }
 
@@ -169,6 +371,7 @@ public class PlayerControl : MonoBehaviour
         if (Physics2D.OverlapBox(bottom.position, bottomSize, 0, bottomLayer))
         {
             isJumping = false;
+            jumpsRemaining = maxJumps;
         }
     }
 
@@ -199,17 +402,57 @@ public class PlayerControl : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if (context.performed && !isJumping && isGrounded)
+        if (context.performed)
         {
-            isJumping = true;
-            dustFX.Play();
-            SoundFXManager.Play("Jump");
-            rb.linearVelocityY = jumpForce;
-            jumpStart = transform.position.y;
+            TryPerformJump();
         }
         else if (context.canceled && isGoingUp)
         {
             rb.linearVelocityY *= 0.5f;
+        }
+    }
+
+    void TryPerformJump()
+    {
+        if (Time.unscaledTime - lastJumpTime < 0.08f)
+        {
+            return;
+        }
+        lastJumpTime = Time.unscaledTime;
+
+        bool canGroundJump = isGrounded && (!isJumping || rb.linearVelocityY <= 0);
+
+        if (canGroundJump)
+        {
+            ExecuteJump(jumpForce);
+            jumpsRemaining = maxJumps - 1;
+        }
+        else if (jumpsRemaining > 0)
+        {
+            // Si el jugador cae de una plataforma sin saltar primero, consume el salto base
+            if (jumpsRemaining == maxJumps)
+            {
+                jumpsRemaining = maxJumps - 1;
+            }
+
+            ExecuteJump(doubleJumpForce);
+            jumpsRemaining--;
+        }
+    }
+
+    void ExecuteJump(float force)
+    {
+        isJumping = true;
+        if (dustFX != null)
+        {
+            dustFX.Play();
+        }
+        SoundFXManager.Play("Jump");
+        rb.linearVelocityY = force;
+        jumpStart = transform.position.y;
+        if (animator != null)
+        {
+            animator.Play("Jump", 0, 0f);
         }
     }
 

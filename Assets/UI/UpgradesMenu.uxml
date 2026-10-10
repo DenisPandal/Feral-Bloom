@@ -1,0 +1,102 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/UpgradesMenu.uss?fileID=7433441132597879392&amp;guid=cd4dc60be3279e54fafb83dee7dce307&amp;type=3#UpgradesMenu" />
+    <ui:VisualElement name="UpgradesOverlay" class="upgrades-overlay">
+        <ui:VisualElement name="UpgradesInnerFrame" class="upgrades-frame">
+            <ui:VisualElement name="UpgradesHeader" class="upgrades-header">
+                <ui:VisualElement name="HeaderCenter" class="header-center">
+                    <ui:VisualElement name="UpgradesTitleImage" class="upgrades-title-image" style="height: 189px; width: 393px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="SlotsRow" class="slots-row">
+                <ui:VisualElement name="Slot1" class="slot-card slot-unlocked">
+                    <ui:VisualElement class="power-art-container">
+                        <ui:VisualElement class="bloom-glow-aura" />
+                        <ui:VisualElement class="bloom-flower">
+                            <ui:Label text="✿" class="bloom-icon" />
+                        </ui:VisualElement>
+                        <ui:Label text="✦" class="particle particle-1" />
+                        <ui:Label text="•" class="particle particle-2" />
+                        <ui:Label text="✦" class="particle particle-3" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🌿" class="leaf-icon leaf-unlocked" />
+                        <ui:Label text="BROTE PRIMORDIAL" class="slot-name slot-name-unlocked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot2" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:VisualElement class="dash-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot3" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="❀" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot4" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="🙤" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot5" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="⸙" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot6" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="❦" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot7" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="🙦" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot8" class="slot-card slot-locked">
+                    <ui:VisualElement class="mystery-container">
+                        <ui:Label text="❁" class="mystery-silhouette" />
+                        <ui:Label text="?" class="question-mark" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="slot-footer">
+                        <ui:Label text="🍃" class="leaf-icon leaf-locked" />
+                        <ui:Label text="???" class="slot-name slot-name-locked" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="UpgradesFooter" class="upgrades-footer">
+                <ui:Button name="CloseUpgradesBtn" class="close-button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
