@@ -11716,7 +11716,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1820762872}
   - component: {fileID: 1820762873}
-  - component: {fileID: 1820762874}
   m_Layer: 5
   m_Name: HUD
   m_TagString: Untagged
@@ -11741,7 +11740,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 80, y: 100}
+  m_SizeDelta: {x: 679.063, y: 298.768}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1820762873
 MonoBehaviour:
@@ -11759,32 +11758,10 @@ MonoBehaviour:
   scoreText: {fileID: 43868644}
   pointText: {fileID: 7867242730302456943, guid: 9b3cba42a810e9e4e98efb0d6e3afc1b, type: 3}
   uiCanvas: {fileID: 1196068296}
---- !u!114 &1820762874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1820762871}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
-  m_ChildAlignment: 0
-  m_Spacing: -40
-  m_ChildForceExpandWidth: 0
-  m_ChildForceExpandHeight: 0
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
-  m_ReverseArrangement: 0
+  framePaddingMin: {x: -30, y: -20}
+  framePaddingMax: {x: 30, y: 20}
+  leafSpacing: {x: 60, y: 0}
+  startOffset: {x: 0, y: 0}
 --- !u!4 &1829904303 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 539206910873052911, guid: 0ef0a5e854b62b9478dbbe48042bd1c6, type: 3}
